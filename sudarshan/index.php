@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <!--[if IE 9]><html class="ie ie9"> <![endif]-->
 <html>
+<!--Head=====================-->
 <?php include 'includes/head.php';?>
+<!--/Head==-->
 <body>
 
     <!--[if lte IE 8]>
@@ -77,13 +79,13 @@
     <!-- End SubHeader ============================================ -->
             
     <div class="container margin_60_35">
-        <h1 class="main_title"><em></em>Welcome to Recom <span>Hotel and Bed&amp;Breakfast</span></h1>
+        <h1 class="main_title"><em></em>WELCOME TO SUDARSHAN HOTEL</h1>
         <p class="lead styled">
-            The lush green koregaon park area is so invitingly refreshing, surrounded with an aura of serenity, quietness that is relaxing. Hotel Surya Villa is here to soothe the weary minds. We constantly work towards building a better and sustainable way of living by providing facilities to our customers without compromising on the environment. The homely atmosphere is enhanced by its setting amongst swaying trees in a flourishing garden. Enjoy the tranquility and bird life.
+            The charming Sudharshan Hotel is the only full service luxury hotel in the heart of Kalyaninagar. Whether it is due to its excellent location, tranquil setting or the fact that it is easily accessible from Pune International Airport, this hotel has increasingly become the preferred destination for business executives.
 
-            The well-known Osho Commune is just 5 minutes walking distance away; while M.G. Road, the main shopping area of Poona city, is just 10 minutes drive away.
+            Away from the hustle and bustle of the city, it awaits to welcome you to its world of understated elegance, tranquility and personalized attention. We offer 24-hour security and safe parking.
 
-            Koregaon Park is boomeranging into a software and business-hub of Poona. Hotel Surya Villa located in this vicinity provides the business-people and seekers an ideal place to stay in.
+            If old world values mean anything to you, service in a relaxed, tranquil environment, a place where you are a guest and not a number, if understatement is more important than brash ... welcome to Hotel Sudarshan.
         </p>
         <div class="row">
             <div class="col-sm-6">
@@ -322,10 +324,11 @@
     </section><!-- End section -->    
     
     <div id="dtBox"></div><!-- End datepicker -->
-    
-      <?php include 'includes/footer.php';?>
-
+    <!--Footer======-->
+    <?php include 'includes/footer.php';?>
+<!--end footer===-->
 <div id="toTop"></div><!-- Back to top button -->
- 
+        
+<?php include 'includes/script.php';?>
 </body>
 </html>
