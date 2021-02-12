@@ -34,12 +34,12 @@
  			<div class="col-lg-9 col-md-8">
             	<div class="row">
                 
-                	<div class="room_desc clearfix" onclick="location.href='room_detail.html';">
+                	<div class="room_desc clearfix" onclick="location.href='room_detail.php';">
                 	<div class="col-md-7">
                     	<figure><img src="../img/room_list_1.jpg" alt="" class="img-responsive"></figure>
                     </div>
                     <div class="col-md-5 room_list_desc">
-                    	<h3><b>Single OCC</b></h3>
+                    	<h3><b>Single OCC Room</b></h3>
                         <p>A/C Room</p>
                         <ul>
                         	<li>
@@ -61,18 +61,19 @@
                               </div>
                               </li>
                         </ul>
-                        <div class="price"><strong>Rs. 2000<br>Extra Person Rs. 500</strong>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels</div>
+                        <div class="price"><strong>Rs. 2000<br>Extra Person Rs. 500</strong>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>Air Conditioning
+                        </p></div>
                     </div>
                     </div>
                 </div><!-- End row room -->  
                 
                 <div class="row">
-                	<div class="room_desc clearfix wow fadeIn" onclick="location.href='room_detail.html';" data-wow-delay="0.1s">
+                	<div class="room_desc clearfix wow fadeIn" onclick="location.href='room_detail_2.php';" data-wow-delay="0.1s">
                 	<div class="col-md-7">
                     	<figure><img src="../img/room_list_2.jpg" alt="" class="img-responsive"></figure>
                     </div>
                     <div class="col-md-5 room_list_desc">
-                    	<h3><b>Double OCC</b></h3>
+                    	<h3><b>Double OCC Room</b></h3>
                         <p>A/C Room</p>
                         <ul>
                         	<li>
@@ -94,7 +95,8 @@
                               </div>
                               </li>
                         </ul>
-                        <div class="price"><strong>Rs. 2500<br>Extra Person Rs. 500</strong> /night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels</div>
+                        <div class="price"><strong>Rs. 2500<br>Extra Person Rs. 500</strong> /night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>Air Conditioning
+                        </p></div>
                     </div>
                     </div>
                 </div><!-- End row room --> 

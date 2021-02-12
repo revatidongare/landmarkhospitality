@@ -20,7 +20,7 @@
     <!-- End Header =============================================== -->
     
     <!-- SubHeader =============================================== -->
-    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/sub_header_short_2.jpg" data-natural-width="1400" data-natural-height="550">
+    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/blog-3.jpg" data-natural-width="1400" data-natural-height="550">
         <div id="subheader">
             <h1>Contact Us</h1>
     </div> <!-- End subheader -->
@@ -35,34 +35,32 @@
         
         <div class="col-md-4">
             	<div class="box_style_1">
-                <div class="box_contact">
-                    <i class="icon_set_1_icon-41"></i>
-                    <h4>For Booking & Reservation Contact</h4>
-                    <p>
- 
-        
-                    <b>E-mail:</b> sudarshan@hotelsuryavilla.com
-
-                    <b>Address:</b> Plot No.18, Lane No.7, HDFC Bank Lane,
-                            Kalyani Nagar, Pune 411006. INDIA<br>
-
-                    <b>Tel.:</b> +91-20-40046273 / 74 / 75<br>
-
-                    <b>Mob.:</b> +91-9762222375 / 9822650140</a></p>
+                    <div class="box_contact">
+                        <i class="icon_set_1_icon-41"></i>
+                        <h4>For Booking & Reservation Contact</h4>
+                        <p><b>E-mail:</b> sudarshan@hotelsuryavilla.com<b>Address:</b> Plot No.18,Lane    No.7, HDFC Bank Lane,Kalyani Nagar, Pune 411006. INDIA<br><b>Tel.:</b> +91-20-40046273 / 74 / 75<br><b>Mob.:</b> +91-9762222375 / 9822650140</a></p>
                     </div>
-                    <!--<div class="box_contact">
+                    <br>
+                    <div class="box_contact">
             	<i class="icon_set_1_icon-37"></i>
-                <h4>Get directions</h4>
-                <form action="http://maps.google.com/maps" method="get" target="_blank">
+                <h4>Distance</h4>
+                <!--<form action="http://maps.google.com/maps" method="get" target="_blank">
                 	<div class="form-group">
 					<input type="text" name="saddr" placeholder="Enter your starting point" class="form-control" />
-					<input type="hidden" name="daddr" value="New York, NY 11430"/>--><!-- Write here your end point -->
-                    <!--</div>
+					<input type="hidden" name="daddr" value="New York, NY 11430" Write here your end point >
+                    </div>
                     <div class="form-group">
 					<button class="btn_1" type="submit" value="Get directions">Get directions</button>
                     </div>
-			</form>
-            </div>-->
+			</form>-->
+            
+
+                        <b>Airport: </b>4 KMS<br>
+
+                        <b>Railway Station: </b>5 KMS<br>
+
+                        <b>City Centre: </b>5 KMS
+            </div>
             </div>
             </div>   
             
@@ -99,6 +97,7 @@
 							</div>
 						</div>
 					</div>
+                    <!-- End row -->
 					<div class="row">
 						<div class="col-md-12">
 							<div class="form-group">
@@ -107,6 +106,7 @@
 							</div>
 						</div>
 					</div>
+                    <!-- End row -->
 					<div class="row add_bottom_30">
 						<div class="col-md-6">
                         	<!--<div class="form-group">
@@ -116,8 +116,9 @@
 							<input type="submit" value="Submit" class="btn_1" id="submit-contact">
 						</div>
 					</div>
+                    <!-- End button -->
 				</form>               
-            </div><!-- End col-md-8 -->    
+            </div><!-- End col-md-7 -->    
             
              
         </div><!-- End row -->

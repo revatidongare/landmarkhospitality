@@ -22,7 +22,7 @@
     <!-- End Header =============================================== -->
     
 	<!-- SubHeader =============================================== -->
-    <div class="parallax-window" id="booking" data-parallax="scroll" data-image-src="../img/sub_header_home.jpg" data-natural-width="1400" data-natural-height="550">
+    <div class="parallax-window" id="booking" data-parallax="scroll" data-image-src="../img/mosaic_1.jpg" data-natural-width="1400" data-natural-height="550">
         <div id="subheader_home">
             <div id="sub_content">
                 <div id="book_container">
@@ -79,7 +79,7 @@
     <!-- End SubHeader ============================================ -->
             
     <div class="container margin_60_35">
-        <h1 class="main_title"><em></em>WELCOME TO SUDARSHAN HOTEL</h1>
+        <h1 class="main_title"><em></em>WELCOME TO <br>SUDARSHAN HOTEL <br><i><h4>Homely Comforts in the midst of Commercial Hub</h4></i></h1>
         <p class="lead styled">
             The charming Sudharshan Hotel is the only full service luxury hotel in the heart of Kalyaninagar. Whether it is due to its excellent location, tranquil setting or the fact that it is easily accessible from Pune International Airport, this hotel has increasingly become the preferred destination for business executives.
 
@@ -117,13 +117,13 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="#"><img src="../img/room_home_1.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>$</sup>140<small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="#"><img src="../img/room_home_1.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs.</sup>2000<small>Per night</small></span></figure>
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
-                        <h3>Single Room </h3>
+                        <h3>Single OCC Room </h3>
                         <p>
-                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                             <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>Air Conditioning
                         </p>
                         <ul>
                             <li>
@@ -136,12 +136,20 @@
                             </li>
                             <li>
                             <div class="tooltip_styled tooltip-effect-4">
-                                <span class="tooltip-item"><i class="icon_set_2_icon-118"></i></span>
+                                <span class="tooltip-item"><i class="icon_set_1_icon-86"></i></span>
                                 <div class="tooltip-content">
-                                    Shower
+                                    Wifi internet connectivity
                                 </div>
                             </div>
                             </li>
+                            <!--<li>
+                                <div class="tooltip_styled tooltip-effect-4">
+                                <span class="tooltip-item"><i class="icon_set_2_icon-111"></i></span>
+                                <div class="tooltip-content">
+                                    Bathtub
+                            </div>
+                        </div>
+                            </li>-->
                             <li>
                             <div class="tooltip_styled tooltip-effect-4">
                                 <span class="tooltip-item"><i class="icon_set_2_icon-116"></i></span>
@@ -150,8 +158,9 @@
                                 </div>
                             </div>
                             </li>
+
                         </ul>
-                        <a href="room_list.html" class="btn_1_outline">Read more</a>
+                        <a href="room_detail.php" class="btn_1_outline">Read more</a>
                     </div><!-- End room_desc_home -->
                 </div>
             </div><!-- End row -->
@@ -161,13 +170,14 @@
     <div class="container margin_60">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 col-md-push-5">
-                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>$</sup>180<small>Per night</small></span></figure>
+                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs.</sup>2500<small>Per night</small></span></figure>
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">
-                    <h3>Double Room </h3>
+                    <h3>Double OCC Room </h3>
                     <p>
-                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                          <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>Air Conditioning
+                        </p>
                     </p>
                     <ul>
                         <li>
@@ -178,38 +188,38 @@
                             </div>
                         </div>
                         </li>
-                        <li>
+                        <!--<li>
                         <div class="tooltip_styled tooltip-effect-4">
                             <span class="tooltip-item"><i class="icon_set_2_icon-111"></i></span>
                             <div class="tooltip-content">
                                 Bathtub
                             </div>
                         </div>
-                        </li>
+                        </li>-->
                         <li>
                         <div class="tooltip_styled tooltip-effect-4">
-                            <span class="tooltip-item"><i class="icon_set_2_icon-116"></i></span>
+                            <span class="tooltip-item"><i class="icon_set_1_icon-86"></i></span>
                             <div class="tooltip-content">
-                                Plasma TV
+                                Wifi internet connectivity
                             </div>
                         </div>
                         </li>
                         <li>
                         <div class="tooltip_styled tooltip-effect-4">
-                            <span class="tooltip-item"><i class="icon_set_2_icon-106"></i></span>
+                            <span class="tooltip-item"><i class="icon_set_2_icon-116 "></i></span>
                             <div class="tooltip-content">
-                                Safe box
+                                 Plasma TV 
                             </div>
                         </div>
                         </li>
                     </ul>
-                    <a href="room_list.html" class="btn_1_outline">Read more</a>
+                    <a href="room_detail_2.php" class="btn_1_outline">Read more</a>
                 </div><!-- End room_desc_home -->
             </div>
         </div><!-- End row -->
     </div><!-- End container -->
     
-    <div class="container_styled_1">
+    <!--<div class="container_styled_1">
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
@@ -264,16 +274,16 @@
                             </li>
                         </ul>
                         <a href="room_list.html" class="btn_1_outline">Read more</a>
-                    </div><!-- End room_desc_home -->
+                    </div>--><!-- End room_desc_home -->
                 </div>
             </div><!-- End row -->
         </div><!-- End container -->
-    </div><!-- End container_styled_1 -->
+    </div>--><!-- End container_styled_1 -->
     
     <section class="promo_full">
     <div class="promo_full_wp">
         <div>
-            <h3>What Clients say<span>Id tale utinam ius, an mei omnium recusabo iracundia.</span></h3>
+            <h3>What Clients say</h3>
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
@@ -283,10 +293,10 @@
                                 <div class="box_overlay">
                                     <div class="pic">
                                         <figure><img src="../img/testimonial_1.jpg" alt="" class="img-circle"></figure>
-                                        <h4>Roberta<small>12 October 2015</small></h4>
+                                        <h4>Pritul Sanghavi<small>12 October 2015</small></h4>
                                     </div>
                                     <div class="comment">
-                                        "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas elaboraret sed, mel cu unum nostrud. No nam indoctum accommodare, vix ei discere civibus philosophia. Vis ea dicant diceret ocurreret."
+                                        "Great clean place. The hotel facilities are basic. The location is excellent. The staff is very friendly and efficient. They take good care of their guests. Resasonably priced. Only thing missing is they should have more breakfast options. The hotel has enough car parking. Very close to the popular koregaon park."
                                     </div>
                                 </div><!-- End box_overlay -->
                             </div>
@@ -295,10 +305,10 @@
                                 <div class="box_overlay">
                                     <div class="pic">
                                         <figure><img src="../img/testimonial_1.jpg" alt="" class="img-circle"></figure>
-                                        <h4>Roberta<small>12 October 2015</small></h4>
+                                        <h4>Prashant Kumar<small>12 October 2015</small></h4>
                                     </div>
                                     <div class="comment">
-                                        "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas elaboraret sed, mel cu unum nostrud. No nam indoctum accommodare, vix ei discere civibus philosophia. Vis ea dicant diceret ocurreret."
+                                        "Budget hotel located in koregaon park, shopping locations are accessible. Airport is 4.5 KMS away from this location. Hotel is average, it's best if your are worried about budget and something which is near to airport.."
                                     </div>
                                 </div><!-- End box_overlay -->
                             </div>
@@ -307,10 +317,11 @@
                                 <div class="box_overlay">
                                     <div class="pic">
                                         <figure><img src="../img/testimonial_1.jpg" alt="" class="img-circle"></figure>
-                                        <h4>Roberta<small>12 October 2015</small></h4>
+                                        <h4>Ajit Bhalachandra<small>12 October 2015</small></h4>
                                     </div>
                                     <div class="comment">
-                                        "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas elaboraret sed, mel cu unum nostrud. No nam indoctum accommodare, vix ei discere civibus philosophia. Vis ea dicant diceret ocurreret."
+                                        "Very calm and quite place. Peace ful. Very well. Maintained. You get complementary breakfasts as well. Area is great to roam around and you have ample amount of amenities.
+"
                                     </div>
                                 </div><!-- End box_overlay -->
                             </div>

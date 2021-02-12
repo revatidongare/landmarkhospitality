@@ -20,7 +20,7 @@
     <!-- End Header =============================================== -->
     
     <!-- SubHeader =============================================== -->
-    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/sub_header_short_2.jpg" data-natural-width="1400" data-natural-height="350">
+    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/mosaic_1.jpg" data-natural-width="1400" data-natural-height="350">
         <div id="subheader">
             <h1>Gallery</h1>
     </div><!-- End subheader -->

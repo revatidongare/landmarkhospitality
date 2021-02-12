@@ -5,7 +5,7 @@
     <meta name="keywords" content="hotel, bed and breakfast, accommodations, travel, motel">
     <meta name="description" content="FC Recom - Hotel and Bed&amp;Breakfast">
     <meta name="author" content="Ansonika">
-    <title>FC Recom - Hotel and Bed&amp;Breakfast</title>
+    <title>Sudarshan Hotel</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">

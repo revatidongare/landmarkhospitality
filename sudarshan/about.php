@@ -20,7 +20,7 @@
     <!-- End Header =============================================== -->
     
     <!-- SubHeader =============================================== -->
-    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/sub_header_short_2.jpg" data-natural-width="1400" data-natural-height="550">
+    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/mosaic_4.jpg" data-natural-width="1400" data-natural-height="550">
         <div id="subheader">
             <h1>About Us</h1>
     </div><!-- End subheader -->
@@ -28,7 +28,7 @@
     <!-- End SubHeader ============================================ -->
     
     <div class="container margin_60">
-      <h2 class="main_title"><em></em>WELCOME TO SUDARSHAN HOTEL</h2>
+      <h2 class="main_title"><em></em>WELCOME TO <br>SUDARSHAN HOTEL</h2>
         <p class="lead styled">
                 
             Hotel Sudarshan offers you a star facility; with spacious rooms equipped with all modern facilities of luxury and comfort. More so, Hotel Sudarshan is situated in serene and pollution free environment. For the business-people, Hotel Sudarshan is an ideal place to be in. Because Kalyani Nagar is emerging into a software and business-hub of Pune.
@@ -83,8 +83,8 @@
         	<div class="row">
             	<div class="col-md-4 col-sm-4">
                 	<div class="box_feat">
-                    	<i class=" icon-rss-4"></i>
-                        <h4>Patio garden</h4>
+                    	<i class=" icon_set_1_icon-86"></i>
+                        <h4>Wi-fi Internet Connectivity</h4>
                         <p>Ut postea legendos vim, usu an reque novum inimicus, cum aperiri molestiae splendide ea. Ad nam modus iudico rationibus.</p>
                     </div>
                 </div>

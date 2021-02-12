@@ -16,10 +16,10 @@
                     <h3>About</h3>
                     <ul>
                         <li><a href="about.php">About us</a></li>
-                        <li><a href="room_list.php">Rooms</a></li>
-                        <li><a href="#">Activities</a></li>
-                        <li><a href="#">Contact us</a></li>
-                         <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="room_list.php">Accomodation</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="contact.php">Contact us</a></li>
+                         
                     </ul>
                 </div>                
                 <div class="col-md-3 col-sm-4">
@@ -30,16 +30,9 @@
                         <li><a href="#">Spanish</a></li>
                     </ul>
                 </div>
-                <div class="col-md-3 col-sm-4"  id="newsletter">
-                    <h3>Newsletter</h3>
-                    <p>Join our newsletter to keep be informed about offers and news.</p>
-					<div id="message-newsletter_2"></div>
-						<form method="post" action="../assets/newsletter.php" name="newsletter_2" id="newsletter_2">
-                        <div class="form-group">
-                            <input name="email_newsletter_2" id="email_newsletter_2"  type="email" value=""  placeholder="Your mail" class="form-control">
-                          </div>
-                            <input type="submit" value="Subscribe" class="btn_1 white" id="submit-newsletter_2">
-                    	</form>
+                <div class="col-md-3 col-sm-4" >
+                    <h3>Direction</h3>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.776595126221!2d73.89818431516002!3d18.53899507344851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c169a3bdcf0f%3A0x604531bee9944863!2sHDFC%20Bank!5e0!3m2!1sen!2sin!4v1613112458578!5m2!1sen!2sin" width="600" height="550" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
             </div><!-- End row -->
             <div class="row">
@@ -47,14 +40,14 @@
                     <div id="social_footer">
                         <ul>
                             <li><a href="#"><i class="icon-facebook"></i></a></li>
-                            <li><a href="#"><i class="icon-twitter"></i></a></li>
+                            <!--<li><a href="#"><i class="icon-twitter"></i></a></li>-->
                             <li><a href="#"><i class="icon-google"></i></a></li>
                             <li><a href="#"><i class="icon-instagram"></i></a></li>
-                            <li><a href="#"><i class="icon-pinterest"></i></a></li>
-                            <li><a href="#"><i class="icon-vimeo"></i></a></li>
-                            <li><a href="#"><i class="icon-youtube-play"></i></a></li>
+                            <!--<li><a href="#"><i class="icon-pinterest"></i></a></li>-->
+                            <!--<li><a href="#"><i class="icon-vimeo"></i></a></li>-->
+                            <!--<li><a href="#"><i class="icon-youtube-play"></i></a></li>-->
                         </ul>
-                          <p>Copyright © 2016 <a target="_blank" title="Free CSS Themes" href="http://freecssthemes.com/">FreeCSSThemes</a>  |  All Right Reserved</p>
+                          <p>Copyright © 2021 <a target="_blank">JW_Creations</a>  |  All Right Reserved</p>
 
                     </div>
                 </div>
