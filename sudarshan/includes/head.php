@@ -15,11 +15,11 @@
     <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="../img/apple-touch-icon-144x144-precomposed.png">
 
     <!-- BASE CSS -->
-    <link href="../css/base.css" rel="stylesheet">
+    <link href="../sudarshan/css/base.css" rel="stylesheet">
     
     <!-- SPECIFIC CSS -->
-    <link rel="stylesheet" type="text/css" href="../css/DateTimePicker.css">
-    <link rel="stylesheet" type="text/css" href="../css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="../sudarshan/css/DateTimePicker.css">
+    <link rel="stylesheet" type="text/css" href="../sudarshan/css/owl.carousel.css">
     
     <!--[if lt IE 9]>
       <script src="../js/html5shiv.min.js"></script>

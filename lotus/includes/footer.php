@@ -2,7 +2,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-12">
-                    <img src="../img/logo_footer.png" width="141" height="40" alt="" id="logo_footer" data-retina="true">
+                    <!--<img src="../img/logo_footer.png" width="141" height="40" alt="" id="logo_footer" data-retina="true">-->
+                    <h3>LOTUS HOTEL</h3>
 					<ul id="contact_details_footer">
           				<li>Lane 5, Koregaon Park <br> Pune -411001. Maharashtra (INDIA)</li>
                         <li><a href="tel://004542344599">Tel: +91-20-26159701 / 26156199<br>
