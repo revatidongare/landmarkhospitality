@@ -117,7 +117,8 @@
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
-                        <h3>Single OCC Room </h3>
+                        <h3>Single OCC Rooms</h3>
+                        <p></p>
                         <p>
                              <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>Air Conditioning
                         </p>
@@ -170,7 +171,7 @@
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">
-                    <h3>Double OCC Room </h3>
+                    <h3>Double OCC Rooms</h3>
                     <p>
                           <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>Air Conditioning
                         </p>

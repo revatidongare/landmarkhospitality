@@ -8,11 +8,11 @@
             </div>
             <nav class="col--md-9 col-sm-9 col-xs-9">
             <a class="cmn-toggle-switch cmn-toggle-switch__htx open_close" href="javascript:void(0);"><span>Menu mobile</span></a>
-            <ul id="lang_top">
+            <!-- <ul id="lang_top">
                 <li><a href="#" class="active">EN</a></li>
                 <li><a href="#">FR</a></li>
                 <li><a href="#">ES</a></li>
-            </ul>
+            </ul> -->
             <div class="main-menu">
                 <div id="header_menu">
                      <img src="../img/logo_m.png" width="141" height="40" alt="" data-retina="true">

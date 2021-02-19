@@ -13,7 +13,7 @@
                         </a> / <a href="#0"><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a></li>
                     </ul>  
                 </div>
-                <div class="col-md-2 col-sm-4">
+                <div class="col-md-5 col-sm-4">
                     <h3>About</h3>
                     <ul>
                         <li><a href="about.php">About us</a></li>
@@ -23,7 +23,11 @@
                         <li><a href="contact.php">Contact us</a></li>
 
                     </ul>
-                </div>                
+                </div>    
+                 <div class="col-md-3 col-sm-4" >
+                    <h3>Direction</h3>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15131.358177813201!2d73.8970558!3d18.5361517!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x84528150edc85806!2sHotel%20Lotus!5e0!3m2!1sen!2sin!4v1613727564828!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                </div>            
                 
                
             </div><!-- End row -->
@@ -32,12 +36,12 @@
                     <div id="social_footer">
                         <ul>
                             <li><a href="#"><i class="icon-facebook"></i></a></li>
-                            <li><a href="#"><i class="icon-twitter"></i></a></li>
+                            <!-- <li><a href="#"><i class="icon-twitter"></i></a></li> -->
                             <li><a href="#"><i class="icon-google"></i></a></li>
                             <li><a href="#"><i class="icon-instagram"></i></a></li>
-                            <li><a href="#"><i class="icon-pinterest"></i></a></li>
-                            <li><a href="#"><i class="icon-vimeo"></i></a></li>
-                            <li><a href="#"><i class="icon-youtube-play"></i></a></li>
+                            <!-- <li><a href="#"><i class="icon-pinterest"></i></a></li> -->
+                            <!-- <li><a href="#"><i class="icon-vimeo"></i></a></li> -->
+                           <!--  <li><a href="#"><i class="icon-youtube-play"></i></a></li> -->
                         </ul>
                           <p>Copyright © 2021 <a target="_blank" title="Free CSS Themes" href="http://freecssthemes.com/">JW_Creations </a>  |  All Right Reserved</p>
 

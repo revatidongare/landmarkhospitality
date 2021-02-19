@@ -30,7 +30,7 @@
     </div>
     
     
-    <h1 class="main_title_in">Double OCC Room</h1>
+    <h1 class="main_title_in">Double OCC Rooms</h1>
     <div class="container add_bottom_60">
         
         <div class="row">

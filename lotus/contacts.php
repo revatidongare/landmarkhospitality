@@ -43,15 +43,16 @@
                     <div class="box_contact">
             	<i class="icon_set_1_icon-37"></i>
                 <h4>Get directions</h4>
-                <form action="http://maps.google.com/maps" method="get" target="_blank">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15131.358177813201!2d73.8970558!3d18.5361517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x84528150edc85806!2sHotel%20Lotus!5e0!3m2!1sen!2sin!4v1613726813567!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+               <!--  <form action="http://maps.google.com/maps" method="get" target="_blank">
                 	<div class="form-group">
 					<input type="text" name="saddr" placeholder="Enter your starting point" class="form-control" />
-					<input type="hidden" name="daddr" value="New York, NY 11430"/><!-- Write here your end point -->
+					<input type="hidden" name="daddr" value="New York, NY 11430"/>
                     </div>
                     <div class="form-group">
 					<button class="btn_1" type="submit" value="Get directions">Get directions</button>
                     </div>
-			</form>
+			</form> -->
 			 <b>Airport: </b>6 KMS<br>
 
              <b>Railway Station: </b>3 KMS<br>
