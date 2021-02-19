@@ -32,7 +32,7 @@
 	<section class="grid">
             <div class="text-center">
                 <h2>Here some pictures ...</h2>
-                <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+                <p>We believe in the luxury of simplicity.</p>
                 </div>
 				<div class="row">
 					<ul class="magnific-gallery">
@@ -153,7 +153,7 @@
 			<div class="container margin_60">
             <div class="text-center">
                 <h2>Here some videos ...</h2>
-                <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+                <p>Informality, style, warmth and modernity.</p>
                 </div>
                 	<div class="row">
 					<ul class="magnific-gallery">

@@ -81,11 +81,7 @@
     <div class="container margin_60_35">
         <h1 class="main_title"><em></em>WELCOME TO <br>SUDARSHAN HOTEL <br><i><h4>Homely Comforts in the midst of Commercial Hub</h4></i></h1>
         <p class="lead styled">
-            The charming Sudharshan Hotel is the only full service luxury hotel in the heart of Kalyaninagar. Whether it is due to its excellent location, tranquil setting or the fact that it is easily accessible from Pune International Airport, this hotel has increasingly become the preferred destination for business executives.
-
-            Away from the hustle and bustle of the city, it awaits to welcome you to its world of understated elegance, tranquility and personalized attention. We offer 24-hour security and safe parking.
-
-            If old world values mean anything to you, service in a relaxed, tranquil environment, a place where you are a guest and not a number, if understatement is more important than brash ... welcome to Hotel Sudarshan.
+           The charming Sudharshan Hotel is the only full service luxury hotel in the heart of Kalyaninagar. Whether it is due to its excellent location, tranquil setting or the fact that it is easily accessible from Pune International Airport, this hotel has increasingly become the preferred destination for business executives.
         </p>
         <div class="row">
             <div class="col-sm-6">

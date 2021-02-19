@@ -31,7 +31,7 @@
 	<section class="grid">
             <div class="text-center">
                 <h2>Here some pictures ...</h2>
-                <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+                <p>A homely welcome awaits you in Hotel Sudarshan.</p>
                 </div>
 				<div class="row">
 					<ul class="magnific-gallery">
@@ -152,7 +152,7 @@
 			<div class="container margin_60">
             <div class="text-center">
                 <h2>Here some videos ...</h2>
-                <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
+                <p>A place where you are a guest and not a number.</p>
                 </div>
                 	<div class="row">
 					<ul class="magnific-gallery">

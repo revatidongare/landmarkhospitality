@@ -24,25 +24,8 @@
 
                     </ul>
                 </div>                
-                <div class="col-md-3 col-sm-4">
-                    <h3>Change language</h3>
-                   <ul>
-                        <li><a href="#">English</a></li>
-                        <li><a href="#">French</a></li>
-                        <li><a href="#">Spanish</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-4"  id="newsletter">
-                    <h3>Newsletter</h3>
-                    <p>Join our newsletter to keep be informed about offers and news.</p>
-					<div id="message-newsletter_2"></div>
-						<form method="post" action="../assets/newsletter.php" name="newsletter_2" id="newsletter_2">
-                        <div class="form-group">
-                            <input name="email_newsletter_2" id="email_newsletter_2"  type="email" value=""  placeholder="Your mail" class="form-control">
-                          </div>
-                            <input type="submit" value="Subscribe" class="btn_1 white" id="submit-newsletter_2">
-                    	</form>
-                </div>
+                
+               
             </div><!-- End row -->
             <div class="row">
                 <div class="col-md-12">

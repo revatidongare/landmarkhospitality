@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--[if IE 9]><html class="ie ie9"> <![endif]-->
 <html>
-<?php include 'includes/head';?>
+<?php include 'includes/head.php';?>
 
 <body>
 
@@ -38,7 +38,7 @@
                 <div class="box_contact">
                     <i class="icon_set_1_icon-41"></i>
                     <h4>Address</h4>
-                    <p>Route de Sablet 1023, Marseille<br>France 01923<br><a href="tel://004542344599">+45 423 445 99</a></p>
+                   <li>Lane 5, Koregaon Park <br> Pune -411001. Maharashtra (INDIA)</li>
                     </div>
                     <div class="box_contact">
             	<i class="icon_set_1_icon-37"></i>
@@ -52,6 +52,11 @@
 					<button class="btn_1" type="submit" value="Get directions">Get directions</button>
                     </div>
 			</form>
+			 <b>Airport: </b>6 KMS<br>
+
+             <b>Railway Station: </b>3 KMS<br>
+
+             <b>City Centre: </b>3 KMS
             </div>
             </div>
             </div>   

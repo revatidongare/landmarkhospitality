@@ -116,13 +116,14 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="#"><img src="../img/room_home_1.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>$</sup>140<small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="#"><img src="../img/room_home_1.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
-                        <h3>Single Room </h3>
+                        <h3>Single OCC Room</h3>
+                        <p>Executive A/C Rooms</p>
                         <p>
-                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                             <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>
                         </p>
                         <ul>
                             <li>
@@ -150,7 +151,7 @@
                             </div>
                             </li>
                         </ul>
-                        <a href="room_list.html" class="btn_1_outline">Read more</a>
+                        <a href="room_detail.php" class="btn_1_outline">Read more</a>
                     </div><!-- End room_desc_home -->
                 </div>
             </div><!-- End row -->
@@ -160,13 +161,15 @@
     <div class="container margin_60">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 col-md-push-5">
-                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>$</sup>180<small>Per night</small></span></figure>
+                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 2400/-</sup><small>Per night</small></span></figure>
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">
-                    <h3>Double Room </h3>
+                    <h3>Double OCC Room</h3>
+                    <p>Executive A/C Rooms</p>
                     <p>
-                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                        
+                          <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>Air Conditioning<br>
                     </p>
                     <ul>
                         <li>
@@ -193,16 +196,9 @@
                             </div>
                         </div>
                         </li>
-                        <li>
-                        <div class="tooltip_styled tooltip-effect-4">
-                            <span class="tooltip-item"><i class="icon_set_2_icon-106"></i></span>
-                            <div class="tooltip-content">
-                                Safe box
-                            </div>
-                        </div>
-                        </li>
+                       
                     </ul>
-                    <a href="room_list.html" class="btn_1_outline">Read more</a>
+                    <a href="room_detail_2.php" class="btn_1_outline">Read more</a>
                 </div><!-- End room_desc_home -->
             </div>
         </div><!-- End row -->
@@ -212,13 +208,14 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="#"><img src="../img/room_home_2.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>$</sup>200<small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="#"><img src="../img/room_home_2.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1400/-</sup><small>Per night</small></span></figure>
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
-                        <h3>Suite Room </h3>
+                        <h3>Single OCC Room</h3>
+                        <p>Executive Non-A/C Rooms</p>
                         <p>
-                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                             <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>
                         </p>
                         <ul>
                             <li>
@@ -245,29 +242,61 @@
                                 </div>
                             </div>
                             </li>
-                            <li>
-                            <div class="tooltip_styled tooltip-effect-4">
-                                <span class="tooltip-item"><i class="icon_set_1_icon-15"></i></span>
-                                <div class="tooltip-content">
-                                    Welcome bottle
-                                </div>
-                            </div>
-                            </li>
-                            <li>
-                            <div class="tooltip_styled tooltip-effect-4">
-                                <span class="tooltip-item"><i class="icon_set_2_icon-106"></i></span>
-                                <div class="tooltip-content">
-                                    Safe box
-                                </div>
-                            </div>
-                            </li>
+                            
+                            
                         </ul>
-                        <a href="room_list.html" class="btn_1_outline">Read more</a>
+                        <a href="room_detail_3.php" class="btn_1_outline">Read more</a>
                     </div><!-- End room_desc_home -->
                 </div>
             </div><!-- End row -->
         </div><!-- End container -->
     </div><!-- End container_styled_1 -->
+    <div class="container margin_60">
+        <div class="row">
+            <div class="col-md-5 col-md-offset-1 col-md-push-5">
+                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
+            </div>
+            <div class="col-md-4 col-md-offset-1 col-md-pull-6">
+                <div class="room_desc_home">
+                    <h3>Double OCC Room</h3>
+                    <p>Executive Non-A/C Rooms</p>
+                    <p>
+                        
+                          <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>
+                    </p>
+                    <ul>
+                        <li>
+                        <div class="tooltip_styled tooltip-effect-4">
+                            <span class="tooltip-item"><i class="icon_set_2_icon-104"></i></span>
+                            <div class="tooltip-content">
+                                King size bed
+                            </div>
+                        </div>
+                        </li>
+                        <li>
+                        <div class="tooltip_styled tooltip-effect-4">
+                            <span class="tooltip-item"><i class="icon_set_2_icon-111"></i></span>
+                            <div class="tooltip-content">
+                                Bathtub
+                            </div>
+                        </div>
+                        </li>
+                        <li>
+                        <div class="tooltip_styled tooltip-effect-4">
+                            <span class="tooltip-item"><i class="icon_set_2_icon-116"></i></span>
+                            <div class="tooltip-content">
+                                Plasma TV
+                            </div>
+                        </div>
+                        </li>
+                       
+                    </ul>
+                    <a href="room_detail_4.php" class="btn_1_outline">Read more</a>
+                </div><!-- End room_desc_home -->
+            </div>
+        </div><!-- End row -->
+    </div><!-- End container -->
+
     
     <section class="promo_full">
     <div class="promo_full_wp">
@@ -285,7 +314,7 @@
                                         <h4>Roberta<small>12 October 2015</small></h4>
                                     </div>
                                     <div class="comment">
-                                        "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas elaboraret sed, mel cu unum nostrud. No nam indoctum accommodare, vix ei discere civibus philosophia. Vis ea dicant diceret ocurreret."
+                                       Have stayed in this hotel couple of times and simply had amazing experience. The hotel is very well centrally located in a very posh location. The nearby area is quite and decent. It was perfect for a solo traveller like me. The rooms are spacious and comfortable. The beds are very much comfortable. The rooms are very well ventilated as it has big windows also which gives you cool view. The bathrooms are hygienic, well maintained and clean. 
                                     </div>
                                 </div><!-- End box_overlay -->
                             </div>

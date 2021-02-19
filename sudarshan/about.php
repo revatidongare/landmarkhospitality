@@ -39,7 +39,7 @@
                 <div class="col-md-5 col-sm-6 col-md-offset-1">
                    <h3>A beatiful contest</h3>
                         <p>
-                            Esse dicit accusam duo an. Modus simul ei nec. Sea et explicari pertinacia, <strong>cu vitae bonorum</strong> vocibus nec, corpora signiferumque no vim. Ad principes scriptorem duo, te omnium gubergren eam, et eam ancillae appareat dissentiet. Quando tantas animal vis ut, mandamus voluptatum duo ne, ne odio vidit commodo has.
+                            Away from the hustle and bustle of the city, it awaits to welcome you to its world of understated elegance, tranquility and personalized attention. We offer 24-hour security and safe parking.
                         </p>
                 </div>
                 <div class="col-md-4 col-sm-6 col-md-offset-1">
@@ -51,7 +51,7 @@
             <div class="col-md-5 col-sm-6 col-md-offset-1 col-md-push-5">
                  <h3>Charming rooms</h3>
                         <p>
-                            Esse dicit accusam duo an. Modus simul ei nec. Sea et explicari pertinacia, <strong>cu vitae bonorum</strong> vocibus nec, corpora signiferumque no vim. Ad principes scriptorem duo, te omnium gubergren eam, et eam ancillae appareat dissentiet. Quando tantas animal vis ut, mandamus voluptatum duo ne, ne odio vidit commodo has.
+                           Hotel Sudarshan offers you a star facility; with spacious rooms equipped with all modern facilities of luxury and comfort. More so, Hotel Sudarshan is situated in serene and pollution free environment. For the business-people, Hotel Sudarshan is an ideal place to be in. Because Kalyani Nagar is emerging into a software and business-hub of Pune.
                         </p>
             </div>
             <div class="col-md-4 col-sm-6 col-md-offset-1 col-md-pull-6">
@@ -63,7 +63,7 @@
                 <div class="col-md-5 col-sm-6 col-md-offset-1">
                    <h3>Enjoy and relax</h3>
                         <p>
-                            Esse dicit accusam duo an. Modus simul ei nec. Sea et explicari pertinacia, <strong>cu vitae bonorum</strong> vocibus nec.
+                           Casual rooms feature sitting areas and desks. All provide flat-screen TVs, ceiling fans and air-conditioning; some offer minifridges and/or garden views.
                         </p>
                         <ul class="list_ok">
                         	<li>Spa and Sauna</li>
@@ -79,27 +79,27 @@
     
     <div class="container_styled_1">
     	<div class="container margin_60">
-        <h3 class="main_title">General facilities<span>Ad principes scriptorem duo, te omnium gubergren eam.</span></h3>
+        <h3 class="main_title">General facilities<span>A homely welcome awaits you in Hotel Sudarshan</span></h3>
         	<div class="row">
             	<div class="col-md-4 col-sm-4">
                 	<div class="box_feat">
                     	<i class=" icon_set_1_icon-86"></i>
                         <h4>Wi-fi Internet Connectivity</h4>
-                        <p>Ut postea legendos vim, usu an reque novum inimicus, cum aperiri molestiae splendide ea. Ad nam modus iudico rationibus.</p>
+                        <p>The availability of fast, reliable WiFi service. Free WiFi services available.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_1_icon-27"></i>
                         <h4>Parking</h4>
-                        <p>Ut postea legendos vim, usu an reque novum inimicus, cum aperiri molestiae splendide ea. Ad nam modus iudico rationibus.</p>
+                        <p>Ample of parking space with 24 hours security and safe parking available.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_1_icon-14"></i>
                         <h4>Room service</h4>
-                        <p>Ut postea legendos vim, usu an reque novum inimicus, cum aperiri molestiae splendide ea. Ad nam modus iudico rationibus.</p>
+                        <p>24 hours room service available.</p>
                     </div>
                 </div>
             </div><!-- End row -->
@@ -108,21 +108,21 @@
                 	<div class="box_feat">
                     	<i class="icon_set_1_icon-22"></i>
                         <h4>Pet allowed</h4>
-                        <p>Ut postea legendos vim, usu an reque novum inimicus, cum aperiri molestiae splendide ea. Ad nam modus iudico rationibus.</p>
+                        <p>Pets are allowed and good care is taken of them.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_2_icon-103"></i>
-                        <h4>Loundry service</h4>
-                        <p>Ut postea legendos vim, usu an reque novum inimicus, cum aperiri molestiae splendide ea. Ad nam modus iudico rationibus.</p>
+                        <h4>Laundry service</h4>
+                        <p>Good quality of laundry services available.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_1_icon-13"></i>
                         <h4>Disable</h4>
-                        <p>Ut postea legendos vim, usu an reque novum inimicus, cum aperiri molestiae splendide ea. Ad nam modus iudico rationibus.</p>
+                        <p>Special facilities are provided for specially abled people and good care is taken of them.</p>
                     </div>
                 </div>
             </div><!-- End row -->
