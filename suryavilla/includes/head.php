@@ -3,9 +3,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="hotel, bed and breakfast, accommodations, travel, motel">
-    <meta name="description" content="FC Recom - Hotel and Bed&amp;Breakfast">
+    <meta name="description" content="Suryavilla Hotel">
     <meta name="author" content="Ansonika">
-    <title>FC Recom - Hotel and Bed&amp;Breakfast</title>
+    <title>Suryavilla Hotel</title>
 
     <!-- Favicons-->
     <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
@@ -15,11 +15,11 @@
     <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="../img/apple-touch-icon-144x144-precomposed.png">
 
     <!-- BASE CSS -->
-    <link href="../css/base.css" rel="stylesheet">
+    <link href="../suryavilla/css/base.css" rel="stylesheet">
     
     <!-- SPECIFIC CSS -->
-    <link rel="stylesheet" type="text/css" href="../css/DateTimePicker.css">
-    <link rel="stylesheet" type="text/css" href="../css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="../suryavilla/css/DateTimePicker.css">
+    <link rel="stylesheet" type="text/css" href="../suryavilla/css/owl.carousel.css">
     
     <!--[if lt IE 9]>
       <script src="../js/html5shiv.min.js"></script>

@@ -8,19 +8,19 @@
             </div>
             <nav class="col--md-9 col-sm-9 col-xs-9">
             <a class="cmn-toggle-switch cmn-toggle-switch__htx open_close" href="javascript:void(0);"><span>Menu mobile</span></a>
-            <ul id="lang_top">
+           <!--  <ul id="lang_top">
                 <li><a href="#" class="active">EN</a></li>
                 <li><a href="#">FR</a></li>
                 <li><a href="#">ES</a></li>
-            </ul>
+            </ul> -->
             <div class="main-menu">
                 <div id="header_menu">
                      <img src="../img/logo_m.png" width="141" height="40" alt="" data-retina="true">
                 </div>
                 <a href="#" class="open_close" id="close_in"><i class="icon_set_1_icon-77"></i></a>
                  <ul>
-                    <li class="submenu">
-                    <a href="../index_4.html" class="show-submenu">Home<i class="icon-down-open-mini"></i></a>
+                    <li>
+                    <a href="../index.php">Home</a>
                     <!--<ul>
                         <li><a href="index.html">Home Booking</a></li>
                         <li><a href="index_5.html">Home Booking date 2</a></li>
@@ -30,8 +30,12 @@
                         <li><a href="index_3.html">Home Text Rotator</a></li>
                     </ul>-->
                     </li>
-                    <li><a href="room_list.html">Rooms</a></li>
-                    <li class="submenu">
+                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="room_list.php">Accomodation</a></li>
+                    <li><a href="gallery.php">Gallery</a></li>
+
+
+                    <!-- <li class="submenu">
                     <a href="javascript:void(0);" class="show-submenu">Pages<i class="icon-down-open-mini"></i></a>
                     <ul>
                     	<li><a href="header_2/index.html">Header transparent</a></li>
@@ -47,8 +51,8 @@
                          <li><a href="icon_pack_2.html">Icon pack 2</a></li>
                         <li><a href="icon_pack_3.html">Icon pack 3</a></li>
                     </ul>
-                    </li>
-                    <li><a href="contacts.html">Contacts</a></li>
+                    </li> -->
+                    <li><a href="contacts.php">Contacts</a></li>
                 </ul>
             </div><!-- End main-menu -->
             

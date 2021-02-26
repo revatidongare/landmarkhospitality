@@ -21,7 +21,7 @@
     <!-- End Header =============================================== -->
     
     <!-- SubHeader =============================================== -->
-    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/sub_header_short.jpg" data-natural-width="1400" data-natural-height="550">
+    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/mosaic_1.jpeg" data-natural-width="1400" data-natural-height="550">
         <div id="subheader">
             <h1>Our Rooms</h1>
     </div><!-- End subheader -->
@@ -36,7 +36,7 @@
                 
                 	<div class="room_desc clearfix" onclick="location.href='room_detail.php';">
                 	<div class="col-md-7">
-                    	<figure><img src="../img/room_list_1.jpg" alt="" class="img-responsive"></figure>
+                    	<figure><img src="../img/room_list_1.jpeg" alt="" class="img-responsive"></figure>
                     </div>
                     <div class="col-md-5 room_list_desc">
                     	<h3><b>Single OCC Room</b></h3>
@@ -70,7 +70,7 @@
                 <div class="row">
                 	<div class="room_desc clearfix wow fadeIn" onclick="location.href='room_detail_2.php';" data-wow-delay="0.1s">
                 	<div class="col-md-7">
-                    	<figure><img src="../img/room_list_2.jpg" alt="" class="img-responsive"></figure>
+                    	<figure><img src="../img/room_list_2.jpeg" alt="" class="img-responsive"></figure>
                     </div>
                     <div class="col-md-5 room_list_desc">
                     	<h3><b>Double OCC Room</b></h3>

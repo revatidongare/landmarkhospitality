@@ -20,7 +20,7 @@
     <!-- End Header =============================================== -->
     
     <!-- SubHeader =============================================== -->
-    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/blog-3.jpg" data-natural-width="1400" data-natural-height="550">
+    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/mosaic_1.jpeg" data-natural-width="1400" data-natural-height="550">
         <div id="subheader">
             <h1>Contact Us</h1>
     </div> <!-- End subheader -->

@@ -20,7 +20,7 @@
     <!-- End Header =============================================== -->
     
     <!-- SubHeader =============================================== -->
-    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/mosaic_4.jpg" data-natural-width="1400" data-natural-height="550">
+    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/mosaic_1.jpeg" data-natural-width="1400" data-natural-height="550">
         <div id="subheader">
             <h1>About Us</h1>
     </div><!-- End subheader -->
@@ -43,7 +43,7 @@
                         </p>
                 </div>
                 <div class="col-md-4 col-sm-6 col-md-offset-1">
-                <img src="../img/about_1.jpg" alt="" class="img-responsive styled"> 
+                <img src="../img/about_1.jpeg" alt="" class="img-responsive styled"> 
                 </div>
       </div><!-- End row -->
  		<div class="divider hidden-xs"></div>
@@ -55,7 +55,7 @@
                         </p>
             </div>
             <div class="col-md-4 col-sm-6 col-md-offset-1 col-md-pull-6">
-               <img src="../img/about_2.jpg" alt="" class="img-responsive styled"> 
+               <img src="../img/about_2.jpeg" alt="" class="img-responsive styled"> 
             </div>
         </div><!-- End row -->
       <div class="divider hidden-xs"></div>
@@ -65,14 +65,14 @@
                         <p>
                            Casual rooms feature sitting areas and desks. All provide flat-screen TVs, ceiling fans and air-conditioning; some offer minifridges and/or garden views.
                         </p>
-                        <ul class="list_ok">
+<!--                         <ul class="list_ok">
                         	<li>Spa and Sauna</li>
                             <li>Body treatments</li>
                              <li>Swimming pool</li>
-                        </ul>
+                        </ul> -->
                 </div>
                 <div class="col-md-4 col-sm-6 col-md-offset-1">
-                <img src="../img/about_3.jpg" alt="" class="img-responsive styled"> 
+                <img src="../img/about_3.JPG" alt="" class="img-responsive styled"> 
                 </div>
       </div><!-- End row -->
     </div><!-- End container -->
@@ -81,64 +81,64 @@
     	<div class="container margin_60">
         <h3 class="main_title">General facilities<span>A homely welcome awaits you in Hotel Sudarshan</span></h3>
         	<div class="row">
-            	<div class="col-md-4 col-sm-4">
+            	<div class="col-md-6 col-sm-4">
                 	<div class="box_feat">
                     	<i class=" icon_set_1_icon-86"></i>
                         <h4>Wi-fi Internet Connectivity</h4>
                         <p>The availability of fast, reliable WiFi service. Free WiFi services available.</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-4">
+                <div class="col-md-6 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_1_icon-27"></i>
                         <h4>Parking</h4>
                         <p>Ample of parking space with 24 hours security and safe parking available.</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-4">
+               <!--  <div class="col-md-4 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_1_icon-14"></i>
                         <h4>Room service</h4>
                         <p>24 hours room service available.</p>
                     </div>
-                </div>
+                </div> -->
             </div><!-- End row -->
             <div class="row">
-            	<div class="col-md-4 col-sm-4">
+            	<div class="col-md-6 col-sm-4">
                 	<div class="box_feat">
-                    	<i class="icon_set_1_icon-22"></i>
-                        <h4>Pet allowed</h4>
-                        <p>Pets are allowed and good care is taken of them.</p>
+                    	<i class="icon_set_1_icon-14"></i>
+                        <h4>Room service</h4>
+                        <p>24 hours room service available.</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-4">
+                <div class="col-md-6 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_2_icon-103"></i>
                         <h4>Laundry service</h4>
                         <p>Good quality of laundry services available.</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-4">
+                <!-- <div class="col-md-4 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_1_icon-13"></i>
                         <h4>Disable</h4>
                         <p>Special facilities are provided for specially abled people and good care is taken of them.</p>
                     </div>
-                </div>
+                </div> -->
             </div><!-- End row -->
         </div><!-- End container -->
     </div><!-- End container_styled_1 -->
-    
+    <!-- 
     <div class="grid">
 		<ul class="magnific-gallery" style="margin-bottom:-5px;">
 						<li>
 							<figure>
-								<img src="../img/gallery/pic_1.jpg" alt="">
+								<img src="../img/gallery/pic_1.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
-									<a href="../img/gallery/large/pic_1.jpg" title="Photo title">
+									<a href="../img/gallery/large/pic_1.JPG" title="">
 										<i class="icon_set_1_icon-32"></i>
-										<p>Your caption</p>
+										<p>Charming Rooms</p>
 									</a>
 								</div>
 								</figcaption>
@@ -184,7 +184,7 @@
 							</figure>
 						</li>
 					</ul>
-		</div>
+		</div> -->
 
 
      <?php include 'includes/footer.php';?>

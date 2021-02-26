@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <!--[if IE 9]><html class="ie ie9"> <![endif]-->
 <html>
 <?php include 'includes/head.php';?>
@@ -77,7 +77,7 @@
     <!-- End SubHeader ============================================ -->
             
     <div class="container margin_60_35">
-        <h1 class="main_title"><em></em>Welcome to Recom <span>Hotel and Bed&amp;Breakfast</span></h1>
+        <h1 class="main_title"><em></em>WELCOME TO<br>Suryavilla Hotel</br><i><h4>Welcoming New Man</h4></i></h1>
         <p class="lead styled">
             The lush green koregaon park area is so invitingly refreshing, surrounded with an aura of serenity, quietness that is relaxing. Hotel Surya Villa is here to soothe the weary minds. We constantly work towards building a better and sustainable way of living by providing facilities to our customers without compromising on the environment. The homely atmosphere is enhanced by its setting amongst swaying trees in a flourishing garden. Enjoy the tranquility and bird life.
 
@@ -115,13 +115,14 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="#"><img src="../img/room_home_1.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>$</sup>140<small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="#"><img src="../img/room_home_1.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 2000/-</sup><small>Per night</small></span></figure>
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
-                        <h3>Single Room </h3>
+                        <h3>Deluxe Rooms</h3>
+                        <p>Executive A/C Rooms</p>
                         <p>
-                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                              <b>Extra Person Rs. 500</b>/night<br>24 Hrs Satellite TV Channels<br>Air Conditioning
                         </p>
                         <ul>
                             <li>
@@ -133,12 +134,18 @@
                             </div>
                             </li>
                             <li>
-                            <div class="tooltip_styled tooltip-effect-4">
+                                 <div class="tooltip_styled tooltip-effect-4">
+                                <span class="tooltip-item"><i class="icon_set_1_icon-86"></i></span>
+                                <div class="tooltip-content">
+                                    Wifi internet connectivity
+                                </div>
+                            </div>
+                            <!-- <div class="tooltip_styled tooltip-effect-4">
                                 <span class="tooltip-item"><i class="icon_set_2_icon-118"></i></span>
                                 <div class="tooltip-content">
                                     Shower
                                 </div>
-                            </div>
+                            </div> -->
                             </li>
                             <li>
                             <div class="tooltip_styled tooltip-effect-4">
@@ -149,7 +156,7 @@
                             </div>
                             </li>
                         </ul>
-                        <a href="room_list.html" class="btn_1_outline">Read more</a>
+                        <a href="room_detail.php" class="btn_1_outline">Read more</a>
                     </div><!-- End room_desc_home -->
                 </div>
             </div><!-- End row -->
@@ -159,13 +166,14 @@
     <div class="container margin_60">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 col-md-push-5">
-                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>$</sup>180<small>Per night</small></span></figure>
+                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 2500/-</sup><small>Per night</small></span></figure>
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">
-                    <h3>Double Room </h3>
+                    <h3>Suite Rooms</h3>
+                    <p>Executive A/C Rooms</p>
                     <p>
-                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                        <b>Extra Person Rs. 500</b>/night<br>24 Hrs Satellite TV Channels<br>Air Conditioning
                     </p>
                     <ul>
                         <li>
@@ -192,16 +200,16 @@
                             </div>
                         </div>
                         </li>
-                        <li>
+                        <!-- <li>
                         <div class="tooltip_styled tooltip-effect-4">
                             <span class="tooltip-item"><i class="icon_set_2_icon-106"></i></span>
                             <div class="tooltip-content">
                                 Safe box
                             </div>
                         </div>
-                        </li>
+                        </li> -->
                     </ul>
-                    <a href="room_list.html" class="btn_1_outline">Read more</a>
+                    <a href="room_detail_2.php" class="btn_1_outline">Read more</a>
                 </div><!-- End room_desc_home -->
             </div>
         </div><!-- End row -->
@@ -211,13 +219,14 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="#"><img src="../img/room_home_2.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>$</sup>200<small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="#"><img src="../img/room_home_2.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1500/-</sup><small>Per night</small></span></figure>
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
-                        <h3>Suite Room </h3>
+                        <h3>Deluxe Rooms</h3>
+                        <p>Executive Non-A/C Rooms</p>
                         <p>
-                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+                             <b>Extra Person Rs. 500</b>/night<br>24 Hrs Satellite TV Channels
                         </p>
                         <ul>
                             <li>
@@ -244,34 +253,87 @@
                                 </div>
                             </div>
                             </li>
-                            <li>
+                            <!-- <li>
                             <div class="tooltip_styled tooltip-effect-4">
                                 <span class="tooltip-item"><i class="icon_set_1_icon-15"></i></span>
                                 <div class="tooltip-content">
                                     Welcome bottle
                                 </div>
                             </div>
-                            </li>
-                            <li>
+                            </li> -->
+                            <!-- <li>
                             <div class="tooltip_styled tooltip-effect-4">
                                 <span class="tooltip-item"><i class="icon_set_2_icon-106"></i></span>
                                 <div class="tooltip-content">
                                     Safe box
                                 </div>
                             </div>
-                            </li>
+                            </li> -->
                         </ul>
-                        <a href="room_list.html" class="btn_1_outline">Read more</a>
+                        <a href="room_detail_3.php" class="btn_1_outline">Read more</a>
                     </div><!-- End room_desc_home -->
                 </div>
             </div><!-- End row -->
         </div><!-- End container -->
     </div><!-- End container_styled_1 -->
+      <div class="container margin_60">
+        <div class="row">
+            <div class="col-md-5 col-md-offset-1 col-md-push-5">
+                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 2500/-</sup><small>Per night</small></span></figure>
+            </div>
+            <div class="col-md-4 col-md-offset-1 col-md-pull-6">
+                <div class="room_desc_home">
+                    <h3>Suite Rooms</h3>
+                    <p>Executive Non-A/C Rooms</p>
+                    <p>
+                        <b>Extra Person Rs. 500</b>/night<br>24 Hrs Satellite TV Channels
+                    </p>
+                    <ul>
+                        <li>
+                        <div class="tooltip_styled tooltip-effect-4">
+                            <span class="tooltip-item"><i class="icon_set_2_icon-104"></i></span>
+                            <div class="tooltip-content">
+                                King size bed
+                            </div>
+                        </div>
+                        </li>
+                        <li>
+                        <div class="tooltip_styled tooltip-effect-4">
+                            <span class="tooltip-item"><i class="icon_set_2_icon-111"></i></span>
+                            <div class="tooltip-content">
+                                Bathtub
+                            </div>
+                        </div>
+                        </li>
+                        <li>
+                        <div class="tooltip_styled tooltip-effect-4">
+                            <span class="tooltip-item"><i class="icon_set_2_icon-116"></i></span>
+                            <div class="tooltip-content">
+                                Plasma TV
+                            </div>
+                        </div>
+                        </li>
+                        <!-- <li>
+                        <div class="tooltip_styled tooltip-effect-4">
+                            <span class="tooltip-item"><i class="icon_set_2_icon-106"></i></span>
+                            <div class="tooltip-content">
+                                Safe box
+                            </div>
+                        </div>
+                        </li> -->
+                    </ul>
+                    <a href="room_detail_4.php" class="btn_1_outline">Read more</a>
+                </div><!-- End room_desc_home -->
+            </div>
+        </div><!-- End row -->
+    </div><!-- End container -->
+
     
-    <section class="promo_full">
+    
+    <!--  <section class="promo_full">
     <div class="promo_full_wp">
         <div>
-            <h3>What Clients say<span>Id tale utinam ius, an mei omnium recusabo iracundia.</span></h3>
+            <h3>What Clients say></h3>
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
@@ -284,9 +346,9 @@
                                         <h4>Roberta<small>12 October 2015</small></h4>
                                     </div>
                                     <div class="comment">
-                                        "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas elaboraret sed, mel cu unum nostrud. No nam indoctum accommodare, vix ei discere civibus philosophia. Vis ea dicant diceret ocurreret."
+                                        The room had a wonderful view. I loved the shower with the three water sources. I even took the time to use the robe :) It was quiet enough to get work done and to take late afternoon nap. I always appreciate complimentary water. Thank you for excellent service.
                                     </div>
-                                </div><!-- End box_overlay -->
+                                </div>
                             </div>
                             
                             <div>
@@ -298,7 +360,7 @@
                                     <div class="comment">
                                         "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas elaboraret sed, mel cu unum nostrud. No nam indoctum accommodare, vix ei discere civibus philosophia. Vis ea dicant diceret ocurreret."
                                     </div>
-                                </div><!-- End box_overlay -->
+                                </div>
                             </div>
                             
                             <div>
@@ -310,22 +372,23 @@
                                     <div class="comment">
                                         "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas elaboraret sed, mel cu unum nostrud. No nam indoctum accommodare, vix ei discere civibus philosophia. Vis ea dicant diceret ocurreret."
                                     </div>
-                                </div><!-- End box_overlay -->
+                                </div>
                             </div>
                             
-                        </div><!-- End carousel_testimonials -->
-                    </div><!-- End col-md-8 -->
-                </div><!-- End row -->
-            </div><!-- End container -->
-        </div><!-- End promo_full_wp -->
-    </div><!-- End promo_full -->
-    </section><!-- End section -->    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>      -->
     
     <div id="dtBox"></div><!-- End datepicker -->
     
       <?php include 'includes/footer.php';?>
 
 <div id="toTop"></div><!-- Back to top button -->
+<?php include 'includes/script.php';?>
  
 </body>
 </html>

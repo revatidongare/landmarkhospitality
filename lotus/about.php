@@ -20,7 +20,7 @@
     <!-- End Header =============================================== -->
     
     <!-- SubHeader =============================================== -->
-    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/sub_header_short_2.jpg" data-natural-width="1400" data-natural-height="350">
+    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../lotus/img/mosaic_1.JPG" data-natural-width="1400" data-natural-height="350">
         <div id="subheader">
             <h1>Our Wonderfull Rooms</h1>
     </div><!-- End subheader -->
@@ -42,7 +42,7 @@
                         </p>
                 </div>
                 <div class="col-md-4 col-sm-6 col-md-offset-1">
-                <img src="../img/about_1.jpg" alt="" class="img-responsive styled"> 
+                <img src="../lotus/img/about_1.JPG" alt="" class="img-responsive styled"> 
                 </div>
       </div><!-- End row -->
  		<div class="divider hidden-xs"></div>
@@ -54,7 +54,7 @@
                         </p>
             </div>
             <div class="col-md-4 col-sm-6 col-md-offset-1 col-md-pull-6">
-               <img src="../img/about_2.jpg" alt="" class="img-responsive styled"> 
+               <img src="../lotus/img/about_2.JPG" alt="" class="img-responsive styled"> 
             </div>
         </div><!-- End row -->
       <div class="divider hidden-xs"></div>
@@ -64,14 +64,14 @@
                         <p>
                            At Hotel Lotus, we believe in the luxury of simplicity. Our rooms are designed with comfort and practicality in mind.
                         </p>
-                        <ul class="list_ok">
+                       <!--  <ul class="list_ok">
                         	<li>Spa and Sauna</li>
                             <li>Body treatments</li>
                              <li>Swimming pool</li>
-                        </ul>
+                        </ul> -->
                 </div>
                 <div class="col-md-4 col-sm-6 col-md-offset-1">
-                <img src="../img/about_3.jpg" alt="" class="img-responsive styled"> 
+                <img src="../lotus/img/about_3.JPG" alt="" class="img-responsive styled"> 
                 </div>
       </div><!-- End row -->
     </div><!-- End container -->
@@ -80,21 +80,21 @@
     	<div class="container margin_60">
         <h3 class="main_title">General facilities<span></span></h3>
         	<div class="row">
-            	<div class="col-md-4 col-sm-4">
+            	<!-- <div class="col-md-4 col-sm-4">
                 	<div class="box_feat">
                     	<i class="icon_set_1_icon-8"></i>
                         <h4>Patio garden</h4>
                         <p>A patio garden, where we provide ouitdoor space for dining and recreation.</p>
                     </div>
-                </div>
-                <div class="col-md-4 col-sm-4">
+                </div> -->
+                <div class="col-md-6 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_1_icon-27"></i>
                         <h4>Parking</h4>
                         <p>Ample of parking space with 24 hours security and safe parking available.</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-4">
+                <div class="col-md-6 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_1_icon-14"></i>
                         <h4>Room service</h4>
@@ -103,21 +103,21 @@
                 </div>
             </div><!-- End row -->
             <div class="row">
-            	<div class="col-md-4 col-sm-4">
+            	<!-- <div class="col-md-4 col-sm-4">
                 	<div class="box_feat">
                     	<i class="icon_set_1_icon-22"></i>
                         <h4>Pet allowed</h4>
                         <p>Pets are allowed and good care is taken of them.</p>
                     </div>
-                </div>
-                <div class="col-md-4 col-sm-4">
+                </div> -->
+                <div class="col-md-6 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_2_icon-103"></i>
                         <h4>Laundry service</h4>
                         <p>Good quality of laundry services available.</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-4">
+                <div class="col-md-6 col-sm-4">
                 <div class="box_feat">
                     	<i class="icon_set_1_icon-13"></i>
                         <h4>Disable</h4>
@@ -132,10 +132,10 @@
 		<ul class="magnific-gallery" style="margin-bottom:-5px;">
 						<li>
 							<figure>
-								<img src="../img/gallery/pic_1.jpg" alt="">
+								<img src="../lotus/img/gallery/pic_1.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
-									<a href="../img/gallery/large/pic_1.jpg" title="Photo title">
+									<a href="../img/gallery/large/pic_1.JPG" title="Photo title">
 										<i class="icon_set_1_icon-32"></i>
 										<p>Your caption</p>
 									</a>

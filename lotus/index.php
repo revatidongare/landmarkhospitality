@@ -21,8 +21,8 @@
     <!-- End Header =============================================== -->
     
 	<!-- SubHeader =============================================== -->
-    <div class="parallax-window" id="booking" data-parallax="scroll" data-image-src="../img/sub_header_home.jpg" data-natural-width="1400" data-natural-height="550">
-        <div id="subheader_home">
+    <div class="parallax-window" id="booking" data-parallax="scroll" data-image-src="../lotus/img/mosaic_1.JPG" data-natural-width="1400" data-natural-height="550">
+       <!--  <div id="subheader_home">
             <div id="sub_content">
                 <div id="book_container">
                     <form method="post" action="../assets/check_avail_home.php" id="check_avail_home" autocomplete="off">
@@ -37,7 +37,7 @@
                                  <input class="endDate1 form-control datepick" type="text" data-field="date" data-startend="end" data-startendelem=".startDate1" readonly placeholder="Departure" id="check_out" name="check_out" >
                                 <span class="input-icon"><i class="icon-calendar-7"></i></span>
                             </div>
-                        </div><!-- End group_1 -->
+                        </div>
                         <div id="group_2">
                             <div id="container_3">
                                 <label>Adults</label>
@@ -55,7 +55,7 @@
                                     <input type="button" value="+" class="qtyplus" name="children">
                                 </div>
                             </div>
-                        </div><!-- End group_2 -->
+                        </div>
                         <div id="group_3">
                             <div id="container_5">
                                 <label>Name</label>
@@ -65,16 +65,16 @@
                                 <label>Email</label>
                                 <input type="text" class="form-control" name="email_booking" id="email_booking" placeholder="Your email">
                             </div>
-                        </div><!-- End group_3 -->
+                        </div>
                         <div id="container_7">
                             <input type="submit" value="Check availability" class="btn_1" id="submit-booking">
                         </div>
                     </form>
                     <div id="message-booking"></div>
-                </div><!-- End book_container -->
-            </div><!-- End sub_content -->
-        </div><!-- End subheader -->
-    </div><!-- End parallax-window -->
+                </div>
+            </div>
+        </div> -->
+    </div>
     <!-- End SubHeader ============================================ -->
             
     <div class="container margin_60_35">
@@ -89,23 +89,23 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="mosaic_container">
-                    <img src="../img/mosaic_1.jpg" alt="" class="img-responsive add_bottom_30"><span class="caption_2">Nice Outdoor</span>
+                    <img src="../lotus/img/mosaic_1.JPG" alt="" class="img-responsive add_bottom_30"><span class="caption_2">Nice Outdoor</span>
                 </div>
             </div>
             <div class="col-sm-6">
                 <div class="col-xs-12">
                     <div class="mosaic_container">
-                        <img src="../img/mosaic_2.jpg" alt="" class="img-responsive add_bottom_30"><span class="caption_2">Large Bedroom</span>
+                        <img src="../lotus/img/mosaic_2.JPG" alt="" class="img-responsive add_bottom_30"><span class="caption_2">Large Bedroom</span>
                     </div>
                 </div>
                 <div class="col-xs-6">
                     <div class="mosaic_container">
-                        <img src="../img/mosaic_3.jpg" alt="" class="img-responsive add_bottom_30"><span class="caption_2">Modern Bathroom</span>
+                        <img src="../lotus/img/mosaic_3.JPG" alt="" class="img-responsive add_bottom_30"><span class="caption_2">Modern Bathroom</span>
                     </div>
                 </div>
                 <div class="col-xs-6">
                     <div class="mosaic_container">
-                        <img src="../img/mosaic_4.jpg" alt="" class="img-responsive add_bottom_30"><span class="caption_2">Wellness</span>
+                        <img src="../lotus/img/mosaic_4.JPG" alt="" class="img-responsive add_bottom_30"><span class="caption_2">Wellness</span>
                     </div>
                 </div>
             </div>
@@ -116,7 +116,7 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="#"><img src="../img/room_home_1.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="#"><img src="../lotus/img/room_home_1.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
@@ -161,7 +161,7 @@
     <div class="container margin_60">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 col-md-push-5">
-                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 2400/-</sup><small>Per night</small></span></figure>
+                  <figure class="room_pic left"><a href="#"><img src="../lotus/img/room_home_3.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 2400/-</sup><small>Per night</small></span></figure>
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">
@@ -208,7 +208,7 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="#"><img src="../img/room_home_2.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1400/-</sup><small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="#"><img src="../lotus/img/room_home_2.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1400/-</sup><small>Per night</small></span></figure>
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
@@ -254,7 +254,7 @@
     <div class="container margin_60">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 col-md-push-5">
-                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
+                  <figure class="room_pic left"><a href="#"><img src="../lotus/img/room_home_3.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">
@@ -298,10 +298,10 @@
     </div><!-- End container -->
 
     
-    <section class="promo_full">
+   <!--  <section class="promo_full">
     <div class="promo_full_wp">
         <div>
-            <h3>What Clients say<span>Id tale utinam ius, an mei omnium recusabo iracundia.</span></h3>
+            <h3>What Clients say</h3>
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
@@ -316,7 +316,7 @@
                                     <div class="comment">
                                        Have stayed in this hotel couple of times and simply had amazing experience. The hotel is very well centrally located in a very posh location. The nearby area is quite and decent. It was perfect for a solo traveller like me. The rooms are spacious and comfortable. The beds are very much comfortable. The rooms are very well ventilated as it has big windows also which gives you cool view. The bathrooms are hygienic, well maintained and clean. 
                                     </div>
-                                </div><!-- End box_overlay -->
+                                </div>
                             </div>
                             
                             <div>
@@ -328,7 +328,7 @@
                                     <div class="comment">
                                         "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas elaboraret sed, mel cu unum nostrud. No nam indoctum accommodare, vix ei discere civibus philosophia. Vis ea dicant diceret ocurreret."
                                     </div>
-                                </div><!-- End box_overlay -->
+                                </div>
                             </div>
                             
                             <div>
@@ -340,16 +340,16 @@
                                     <div class="comment">
                                         "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas elaboraret sed, mel cu unum nostrud. No nam indoctum accommodare, vix ei discere civibus philosophia. Vis ea dicant diceret ocurreret."
                                     </div>
-                                </div><!-- End box_overlay -->
+                                </div>
                             </div>
                             
-                        </div><!-- End carousel_testimonials -->
-                    </div><!-- End col-md-8 -->
-                </div><!-- End row -->
-            </div><!-- End container -->
-        </div><!-- End promo_full_wp -->
-    </div><!-- End promo_full -->
-    </section><!-- End section -->    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>  -->
     
     <div id="dtBox"></div><!-- End datepicker -->
     
