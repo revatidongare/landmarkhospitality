@@ -21,7 +21,7 @@
     <!-- End Header =============================================== -->
     
     <!-- SubHeader =============================================== -->
-    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/sub_header_short_2.jpg" data-natural-width="1400" data-natural-height="350">
+    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../lotus/img/mosaic_1.JPG" data-natural-width="1400" data-natural-height="350">
         <div id="subheader">
             <h1>Gallery</h1>
     </div><!-- End subheader -->
@@ -38,10 +38,10 @@
 					<ul class="magnific-gallery">
 						<li>
 							<figure>
-								<img src="../img/gallery/pic_1.jpg" alt="">
+								<img src="../lotus/img/gallery/pic_1.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
-									<a href="../img/gallery/large/pic_1.jpg" title="Photo title" data-effect="mfp-move-horizontal">
+									<a href="../lotus/img/gallery/pic_1.JPG" title="Photo title" data-effect="mfp-move-horizontal">
 										<i class="icon_set_1_icon-32"></i>
 										<p>Your caption</p>
 								</a>
@@ -51,7 +51,7 @@
 						</li>
 						<li>
 							<figure>
-								<img src="../img/gallery/pic_2.jpg" alt="">
+								<img src="../lotus/img/gallery/pic_2.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
                                     	<a href="../img/gallery/large/pic_3.jpg" title="Photo title" data-effect="mfp-move-horizontal">
@@ -65,7 +65,7 @@
 						</li>
 						<li>
 							<figure>
-								<img src="../img/gallery/pic_4.jpg" alt="">
+								<img src="../lotus/img/gallery/pic_3.jpg" alt="">
 								<figcaption>
 								<div class="caption-content">
 										<a href="../img/gallery/large/pic_4.jpg" title="Photo title" data-effect="mfp-move-horizontal">
@@ -78,7 +78,7 @@
 						</li>
 						<li>
 							<figure>
-								<img src="../img/gallery/pic_5.jpg" alt="">
+								<img src="../lotus/img/gallery/pic_4.jpg" alt="">
 								<figcaption>
 								<div class="caption-content">
 									<a href="../img/gallery/large/pic_5.jpg" title="Photo title">
@@ -95,7 +95,7 @@
 					<ul class="magnific-gallery">
 						<li>
 							<figure>
-								<img src="../img/gallery/pic_6.jpg" alt="">
+								<img src="../lotus/img/gallery/pic_5.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
 									<a href="../img/gallery/large/pic_8.jpg" title="Photo title">
@@ -108,7 +108,7 @@
 						</li>
 						<li>
 							<figure>
-								<img src="../img/gallery/pic_7.jpg" alt="">
+								<img src="../lotus/img/gallery/pic_6.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
 									<a href="../img/gallery/large/pic_7.jpg" title="Photo title">
@@ -121,7 +121,7 @@
 						</li>
 						<li>
 							<figure>
-								<img src="../img/gallery/pic_8.jpg" alt="">
+								<img src="../lotus/img/gallery/pic_7.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
 									<a href="../img/gallery/large/pic_8.jpg" title="Photo title">
@@ -134,7 +134,7 @@
 						</li>
 						<li>
 							<figure>
-								<img src="../img/gallery/pic_9.jpg" alt="">
+								<img src="../lotus/img/gallery/pic_8.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
 									<a href="../img/gallery/large/pic_9.jpg" title="Photo title">
@@ -149,7 +149,7 @@
 				</div>		
 		</section>
         
-        <section class="grid">
+        <!-- <section class="grid">
 			<div class="container margin_60">
             <div class="text-center">
                 <h2>Here some videos ...</h2>
@@ -200,7 +200,7 @@
 					</ul>
 				</div>
 			</div>
-		</section>
+		</section> -->
       </div><!-- End container -->
 
      <?php include 'includes/footer.php';?>

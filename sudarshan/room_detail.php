@@ -22,7 +22,7 @@
     
     <!-- Set up your HTML -->
 <div class="carousel_in">
-      <div><img src="../img/room_detail_1.jpg" alt=""><div class="caption"><h3>Fantastic bed room</h3></div></div>
+      <div><img src="../img/room_detail_1.jpeg" alt=""><div class="caption"><h3>Fantastic bed room</h3></div></div>
       <div><img src="../img/room_detail_2.jpg" alt=""><div class="caption"><h3>Equiped bathroom</h3></div></div>
       <div><img src="../img/room_detail_3.jpg" alt=""><div class="caption"><h3>Equiped bathroom</h3></div></div>
       <div><img src="../img/room_detail_4.jpg" alt=""><div class="caption"><h3>Nice outdoor</h3></div></div>

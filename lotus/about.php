@@ -128,62 +128,62 @@
         </div><!-- End container -->
     </div><!-- End container_styled_1 -->
     
-    <div class="grid">
-		<ul class="magnific-gallery" style="margin-bottom:-5px;">
-						<li>
-							<figure>
-								<img src="../lotus/img/gallery/pic_1.JPG" alt="">
-								<figcaption>
-								<div class="caption-content">
-									<a href="../img/gallery/large/pic_1.JPG" title="Photo title">
-										<i class="icon_set_1_icon-32"></i>
-										<p>Your caption</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-						<li>
-							<figure>
-								<img src="../img/gallery/pic_2.jpg" alt="">
-								<figcaption>
-								<div class="caption-content">
-									<a href="../img/gallery/large/pic_2.jpg" title="Photo title">
-										<i class="icon_set_1_icon-32"></i>
-										<p>Your caption</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-						<li>
-							<figure>
-								<img src="../img/gallery/pic_3.jpg" alt="">
-								<figcaption>
-								<div class="caption-content">
-									<a href="../img/gallery/large/pic_3.jpg" title="Photo title">
-										<i class="icon_set_1_icon-32"></i>
-										<p>Your caption</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-						<li>
-							<figure>
-								<img src="../img/gallery/pic_4.jpg" alt="">
-								<figcaption>
-								<div class="caption-content">
-									<a href="../img/gallery/large/pic_4.jpg" title="Photo title">
-										<i class="icon_set_1_icon-32"></i>
-										<p>Your caption</p>
-									</a>
-								</div>
-								</figcaption>
-							</figure>
-						</li>
-					</ul>
-		</div>
+   <!--  <div class="grid">
+        <ul class="magnific-gallery" style="margin-bottom:-5px;">
+            <li>
+                <figure>
+                    <img src="../lotus/img/gallery/pic_1.JPG" alt="">
+                    <figcaption>
+                        <div class="caption-content">
+                            <a href="../img/gallery/large/pic_1.JPG" title="Photo title">
+                                <i class="icon_set_1_icon-32"></i>
+                                <p>Your caption</p>
+                            </a>
+                        </div>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="../lotus/img/gallery/pic_2.JPG" alt="">
+                    <figcaption>
+                        <div class="caption-content">
+                            <a href="../img/gallery/large/pic_2.jpg" title="Photo title">
+                                <i class="icon_set_1_icon-32"></i>
+                                <p>Your caption</p>
+                            </a>
+                        </div>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="../img/gallery/pic_3.jpg" alt="">
+                    <figcaption>
+                        <div class="caption-content">
+                            <a href="../img/gallery/large/pic_3.jpg" title="Photo title">
+                                <i class="icon_set_1_icon-32"></i>
+                                <p>Your caption</p>
+                            </a>
+                        </div>
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="../img/gallery/pic_4.jpg" alt="">
+                    <figcaption>
+                        <div class="caption-content">
+                            <a href="../img/gallery/large/pic_4.jpg" title="Photo title">
+                                <i class="icon_set_1_icon-32"></i>
+                                <p>Your caption</p>
+                            </a>
+                        </div>
+                    </figcaption>
+                </figure>
+            </li>
+        </ul>
+    </div> -->
 
 
      <?php include 'includes/footer.php';?>
