@@ -194,7 +194,7 @@
 				<ul>
 					<li><i class="icon_set_1_icon-86"></i>Free Wifi</li>
                     <li><i class=" icon_set_1_icon-49"></i>36 Rooms with all Amenities</li>
-					<li><i class="icon_set_2_icon-103"></i>Loundry service</li>
+					<li><i class="icon_set_2_icon-103"></i>Laundry service</li>
                     <li><i class=" icon_set_1_icon-55"></i>Direct Dial Facilities</li>
 					<li><i class="icon_set_1_icon-58"></i>Complimentary Breakfast</li>
 					<!--<li><i class="icon_set_1_icon-58"></i>Restaurant</li>-->

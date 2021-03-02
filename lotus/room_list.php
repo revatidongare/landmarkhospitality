@@ -20,7 +20,7 @@
     <!-- End Header =============================================== -->
     
     <!-- SubHeader =============================================== -->
-    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/sub_header_short.JPG" data-natural-width="1400" data-natural-height="350">
+    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../lotus/img/mosaic_1.jpeg" data-natural-width="1400" data-natural-height="350">
         <div id="subheader">
             <h1>Our Wonderfull Rooms</h1>
     </div><!-- End subheader -->
@@ -178,7 +178,7 @@
 				<ul>
 					<li><i class="icon_set_1_icon-86"></i>Free Wifi</li>
 					<li><i class="icon_set_2_icon-103"></i>Laundry service</li>
-					<li><i class="icon_set_2_icon-110"></i>Swimming pool</li>
+					<!-- <li><i class="icon_set_2_icon-110"></i>Swimming pool</li> -->
 					<li><i class="icon_set_1_icon-58"></i>Restaurant</li>
 					<li><i class="icon_set_1_icon-27"></i>Parking</li>
 				</ul>
