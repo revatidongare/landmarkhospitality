@@ -54,7 +54,7 @@
 								<img src="../lotus/img/gallery/pic_2.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
-                                    	<a href="../img/gallery/large/pic_3.jpg" title="Photo title" data-effect="mfp-move-horizontal">
+                                    	<a href="../lotus/img/gallery/pic_2.JPG" title="Photo title" data-effect="mfp-move-horizontal">
                                         <i class="icon_set_1_icon-32"></i>
 										<p>Your caption</p>
 									   </a>
@@ -68,7 +68,7 @@
 								<img src="../lotus/img/gallery/pic_3.jpg" alt="">
 								<figcaption>
 								<div class="caption-content">
-										<a href="../img/gallery/large/pic_4.jpg" title="Photo title" data-effect="mfp-move-horizontal">
+										<a href="../lotus/img/gallery/pic_3.jpg" title="Photo title" data-effect="mfp-move-horizontal">
 										<i class="icon_set_1_icon-32"></i>
 										<p>Your caption</p>
 									</a>
@@ -81,7 +81,7 @@
 								<img src="../lotus/img/gallery/pic_4.jpg" alt="">
 								<figcaption>
 								<div class="caption-content">
-									<a href="../img/gallery/large/pic_5.jpg" title="Photo title">
+									<a href="../lotus/img/gallery/pic_4.jpg" title="Photo title">
 										<i class="icon_set_1_icon-32"></i>
 										<p>Your caption</p>
 									</a>
@@ -98,7 +98,7 @@
 								<img src="../lotus/img/gallery/pic_5.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
-									<a href="../img/gallery/large/pic_8.jpg" title="Photo title">
+									<a href="../lotus/img/gallery/pic_5.JPG" title="Photo title">
 										<i class="icon_set_1_icon-32"></i>
 										<p>Your caption</p>
 									</a>
@@ -111,7 +111,7 @@
 								<img src="../lotus/img/gallery/pic_6.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
-									<a href="../img/gallery/large/pic_7.jpg" title="Photo title">
+									<a href="../lotus/img/gallery/pic_6.JPG" title="Photo title">
 										<i class="icon_set_1_icon-32"></i>
 										<p>Your caption</p>
 									</a>
@@ -124,7 +124,7 @@
 								<img src="../lotus/img/gallery/pic_7.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
-									<a href="../img/gallery/large/pic_8.jpg" title="Photo title">
+									<a href="../lotus/img/gallery/pic_7.JPG" title="Photo title">
 										<i class="icon_set_1_icon-32"></i>
 										<p>Your caption</p>
 									</a>
@@ -137,7 +137,7 @@
 								<img src="../lotus/img/gallery/pic_8.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
-									<a href="../img/gallery/large/pic_9.jpg" title="Photo title">
+									<a href="../lotus/img/gallery/pic_8.JPG" title="Photo title">
 										<i class="icon_set_1_icon-32"></i>
 										<p>Your caption</p>
 									</a>
