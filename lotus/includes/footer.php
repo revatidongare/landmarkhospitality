@@ -35,10 +35,10 @@
                 <div class="col-md-12">
                     <div id="social_footer">
                         <ul>
-                            <li><a href="#"><i class="icon-facebook"></i></a></li>
+                            <li><a href="https://www.facebook.com/tejas.bumb.7/"><i class="icon-facebook"></i></a></li>
                             <!-- <li><a href="#"><i class="icon-twitter"></i></a></li> -->
                             <li><a href="#"><i class="icon-google"></i></a></li>
-                            <li><a href="#"><i class="icon-instagram"></i></a></li>
+                            <li><a href="https://instagram.com/landmarkhospitality03?igshid=19ocn1f715moo"><i class="icon-instagram"></i></a></li>
                             <!-- <li><a href="#"><i class="icon-pinterest"></i></a></li> -->
                             <!-- <li><a href="#"><i class="icon-vimeo"></i></a></li> -->
                            <!--  <li><a href="#"><i class="icon-youtube-play"></i></a></li> -->
