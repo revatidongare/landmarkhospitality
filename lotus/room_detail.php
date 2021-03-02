@@ -22,11 +22,11 @@
     <!-- Set up your HTML -->
 <div class="carousel_in">
       <div><img src="../lotus/img/room_detail_1.jpg" alt=""><div class="caption"><h3>Fantastic bed room</h3></div></div>
-      <div><img src="../img/room_detail_2.jpg" alt=""><div class="caption"><h3>Equiped bathroom</h3></div></div>
-      <div><img src="../img/room_detail_3.jpg" alt=""><div class="caption"><h3>Equiped bathroom</h3></div></div>
-      <div><img src="../img/room_detail_4.jpg" alt=""><div class="caption"><h3>Nice outdoor</h3></div></div>
-      <!-- <div><img src="../img/room_detail_5.jpg" alt=""><div class="caption"><h3>Swimming pool</h3></div></div>
-    </div> -->
+      <!-- <div><img src="../img/room_detail_2.jpg" alt=""><div class="caption"><h3>Equiped bathroom</h3></div></div> -->
+      <div><img src="../lotus/img/room_detail_3.JPG" alt=""><div class="caption"><h3>Equiped bathroom</h3></div></div>
+      <div><img src="../lotus/img/room_detail_4.JPG" alt=""><div class="caption"><h3>Nice outdoor</h3></div></div>
+      <!-- <div><img src="../img/room_detail_5.jpg" alt=""><div class="caption"><h3>Swimming pool</h3></div></div> -->
+    </div>
     
     
     <h1 class="main_title_in">Single OCC Rooms</h1>
