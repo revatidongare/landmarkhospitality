@@ -21,7 +21,7 @@
     <!-- End Header =============================================== -->
     
 	<div class="carousel_in">
-      <div><img src="lotus/img/banner1.jpg" alt=""><a href="lotus/index.php"><div class="caption"><h3> Lotus<h4 style="color: white;">Koregaon Park</h4> </h3></div></a></div>
+      <div><img src="lotus/img/banner_1.jpeg" alt=""><a href="lotus/index.php"><div class="caption"><h3> Lotus<h4 style="color: white;">Koregaon Park</h4> </h3></div></a></div>
       <div><img src="img/banner_2.jpeg" alt=""><a href="sudarshan/index.php"><div class="caption"><h3>Sudarshan<h4 style="color: white;">Kalyani Nagar</h4> </h3></div></a></div>
       <div><img src="img/room_detail_3.jpg" alt=""><a href="suryavilla/index.php"><div class="caption"><h3>Suryavilla<h4 style="color: white;">Kalyani Nagar</h4></h3></div></a></div>
       <!-- <div><img src="img/room_detail_4.jpg" alt=""><div class="caption"><h3>Nice outdoor</h3></div></div>

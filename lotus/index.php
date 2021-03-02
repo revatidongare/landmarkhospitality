@@ -21,7 +21,7 @@
     <!-- End Header =============================================== -->
     
 	<!-- SubHeader =============================================== -->
-    <div class="parallax-window" id="booking" data-parallax="scroll" data-image-src="../lotus/img/mosaic_1.JPG" data-natural-width="1400" data-natural-height="550">
+    <div class="parallax-window" id="booking" data-parallax="scroll" data-image-src="../lotus/img/mosaic_1.jpeg" data-natural-width="1400" data-natural-height="550">
        <!--  <div id="subheader_home">
             <div id="sub_content">
                 <div id="book_container">
@@ -89,7 +89,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="mosaic_container">
-                    <img src="../lotus/img/mosaic_1.JPG" alt="" class="img-responsive add_bottom_30"><span class="caption_2">Nice Outdoor</span>
+                    <img src="../lotus/img/mosaic_1.jpeg" alt="" class="img-responsive add_bottom_30"><span class="caption_2">Nice Outdoor</span>
                 </div>
             </div>
             <div class="col-sm-6">
