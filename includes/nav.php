@@ -49,7 +49,7 @@
                     </ul>
                     </li>-->
                     <li><a href="Lotus/index.php">Lotus</a></li>
-                    <li><a href="contacts.html">Contacts</a></li>
+                   <!--  <li><a href="contacts.html">Contacts</a></li> -->
                 </ul>
             </div><!-- End main-menu -->
             
