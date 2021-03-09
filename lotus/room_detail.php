@@ -29,7 +29,7 @@
     </div>
     
     
-    <h1 class="main_title_in">Single OCC Rooms</h1>
+    <h1 class="main_title_in">Single A/c Rooms</h1>
     <div class="container add_bottom_60">
         
         <div class="row">

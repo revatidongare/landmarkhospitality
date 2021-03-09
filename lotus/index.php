@@ -116,12 +116,12 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="#"><img src="../lotus/img/room_home_1.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="../lotus/img/room_home_1.JPG"><img src="../lotus/img/room_home_1.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
-                        <h3>Single OCC Room</h3>
-                        <p>Executive A/C Rooms</p>
+                        <h3>Single A/c Room</h3>
+                        
                         <p>
                              <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>
                         </p>
@@ -161,12 +161,12 @@
     <div class="container margin_60">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 col-md-push-5">
-                  <figure class="room_pic left"><a href="#"><img src="../lotus/img/room_home_3.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 2400/-</sup><small>Per night</small></span></figure>
+                  <figure class="room_pic left"><a href="../lotus/img/room_home_3.JPG"><img src="../lotus/img/room_home_3.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 2400/-</sup><small>Per night</small></span></figure>
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">
-                    <h3>Double OCC Room</h3>
-                    <p>Executive A/C Rooms</p>
+                    <h3>Double A/c Room</h3>
+                    
                     <p>
                         
                           <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>Air Conditioning<br>
@@ -208,12 +208,12 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="#"><img src="../lotus/img/room_home_2.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1400/-</sup><small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="../lotus/img/room_home_2.JPG"><img src="../lotus/img/room_home_2.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1400/-</sup><small>Per night</small></span></figure>
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
-                        <h3>Single OCC Room</h3>
-                        <p>Executive Non-A/C Rooms</p>
+                        <h3>Single Non-A/c Rooms</h3>
+                        
                         <p>
                              <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>
                         </p>
@@ -254,12 +254,12 @@
     <div class="container margin_60">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 col-md-push-5">
-                  <figure class="room_pic left"><a href="#"><img src="../lotus/img/room_home_4.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
+                  <figure class="room_pic left"><a href="../lotus/img/room_home_4.JPG"><img src="../lotus/img/room_home_4.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">
-                    <h3>Double OCC Room</h3>
-                    <p>Executive Non-A/C Rooms</p>
+                    <h3>Double Non-A/c Rooms</h3>
+                    
                     <p>
                         
                           <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>

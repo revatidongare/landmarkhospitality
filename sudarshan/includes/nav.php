@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col--md-3 col-sm-3 col-xs-3">
                 <a href="index.php" id="logo">
-                <img src="../img/logo.png" width="190" height="23" alt="" data-retina="true">
+                <img src="../sudarshan/img/logo.jpeg" width="200" height="100" alt="" data-retina="true">
                 </a>
             </div>
             <nav class="col--md-9 col-sm-9 col-xs-9">

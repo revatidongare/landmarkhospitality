@@ -113,11 +113,13 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="#"><img src="../img/room_home_1.jpeg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs.</sup>2000<small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="../img/room_home_1.jpeg"><img src="../img/room_home_1.jpeg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs.</sup>2000<small>Per night</small></span></figure>
+
+                   
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
-                        <h3>Single OCC Rooms</h3>
+                        <h3>Single A/c Rooms</h3>
                         <p></p>
                         <p>
                              <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>Air Conditioning
@@ -158,6 +160,7 @@
 
                         </ul>
                         <a href="room_detail.php" class="btn_1_outline">Read more</a>
+
                     </div><!-- End room_desc_home -->
                 </div>
             </div><!-- End row -->
@@ -167,11 +170,11 @@
     <div class="container margin_60">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 col-md-push-5">
-                  <figure class="room_pic left"><a href="#"><img src="../img/room_home_3.jpeg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs.</sup>2500<small>Per night</small></span></figure>
+                  <figure class="room_pic left"><a href="../img/room_home_3.jpeg"><img src="../img/room_home_3.jpeg" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs.</sup>2500<small>Per night</small></span></figure>
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">
-                    <h3>Double OCC Rooms</h3>
+                    <h3>Double A/c Rooms</h3>
                     <p>
                           <b>Extra Person Rs. 500</b>/night<br>Complimentary Breakfast<br>24 Hrs Satellite TV Channels<br>Air Conditioning
                         </p>
