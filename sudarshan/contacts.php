@@ -70,57 +70,62 @@
         	<div class="col-md-7 col-md-offset-1">
             
             <div id="message-contact"></div>
-				<form method="post" action="../assets//contact.php" id="contactform">
-					<div class="row">
-						<div class="col-md-6 col-sm-6">
-							<div class="form-group">
-								<label>First Name</label>
-								<input type="text" class="form-control" id="name_contact" name="name_contact" placeholder="Enter Name">
-							</div>
-						</div>
-						<div class="col-md-6 col-sm-6">
-							<div class="form-group">
-								<label>Last Name</label>
-								<input type="text" class="form-control" id="lastname_contact" name="lastname_contact" placeholder="Enter Last Name">
-							</div>
-						</div>
-					</div>
-					<!-- End row -->
-					<div class="row">
-						<div class="col-md-6 col-sm-6">
-							<div class="form-group">
-								<label>Email</label>
-								<input type="email" id="email_contact" name="email_contact" class="form-control" placeholder="Enter Email">
-							</div>
-						</div>
-						<div class="col-md-6 col-sm-6">
-							<div class="form-group">
-								<label>Phone</label>
-								<input type="text" id="phone_contact" name="phone_contact" class="form-control" placeholder="Enter Phone number">
-							</div>
-						</div>
-					</div>
+				<form method="post" action="back.php">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <label>First Name</label>
+                                <input type="text" class="form-control" id="name" name="name" placeholder="Enter Name">
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <label>Last Name</label>
+                                <input type="text" class="form-control" id="lastname" name="lastname" placeholder="Enter Last Name">
+                            </div>
+                        </div>
+                    </div>
                     <!-- End row -->
-					<div class="row">
-						<div class="col-md-12">
-							<div class="form-group">
-								<label>Message</label>
-								<textarea id="message_contact" name="message_contact" class="form-control" placeholder="Write your message" style="height:150px;"></textarea>
-							</div>
-						</div>
-					</div>
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <label>Email</label>
+                                <input type="text" id="email" name="email" class="form-control" placeholder="Enter Email">
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <label>Phone</label>
+                                <input type="text" id="phone" name="phone" class="form-control" placeholder="Enter Phone number">
+                            </div>
+                        </div>
+                    </div>
                     <!-- End row -->
-					<div class="row add_bottom_30">
-						<div class="col-md-6">
-                        	<!--<div class="form-group">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label>Message</label>
+                                <textarea  id="message" name="message" class="form-control" placeholder="Write your message" style="height:150px;"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End row -->
+                    <div class="row add_bottom_30">
+                        <div class="col-md-6">
+                            <!--<div class="form-group">
                                 <label>Human verification</label>
                                 <input type="text" id="verify_contact" class="form-control add_bottom_30" placeholder="Are you human? 3 + 1 =">
                             </div>-->
-							<input type="submit" value="Submit" class="btn_1" id="submit-contact">
-						</div>
-					</div>
+                            <div class="text-center"><a href="contacts.php"><button  type="submit" style= "background: #18d26e;
+    border: 0;
+    padding: 10px 30px;
+    color: #fff;
+    transition: 0.4s;
+    cursor: pointer;" name="submit" id="submit">Submit</button>
+                        </div>
+                    </div>
                     <!-- End button -->
-				</form>               
+                </form>               
             </div><!-- End col-md-7 -->    
             
              

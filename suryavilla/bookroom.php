@@ -2,7 +2,6 @@
 <!--[if IE 9]><html class="ie ie9"> <![endif]-->
 <html>
 <?php include 'includes/head.php';?>
-
 <body>
 
     <!--[if lte IE 8]>
@@ -21,32 +20,33 @@
     <!-- End Header =============================================== -->
     
     <!-- SubHeader =============================================== -->
-    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../lotus/img/mosaic_1.jpeg" data-natural-width="1400" data-natural-height="350">
+    <section class="parallax-window" id="short" data-parallax="scroll" data-image-src="../img/blog-3.jpg" data-natural-width="1400" data-natural-height="550">
         <div id="subheader">
             <h1>Book Room</h1>
-    </div><!-- End subheader -->
+    </div> <!-- End subheader -->
     </section><!-- End section -->
+
     <!-- End SubHeader ============================================ -->
 	
         
     <div class="container margin_60_35">
-    <h2 class="main_title"><em></em>Welcome to Lotus <span>Hotel and Bed&amp;Breakfast</span></h2>
+    <!--<h2 class="main_title"><em></em>Contact</h2>-->
     	<div class="row add_top_20">
         
-        
+      
             
         	<div class="col-md-7 col-md-offset-1">
             
             <div id="message-contact"></div>
-				        <form method="post" action="back.php">
-                    <div class="row">       
-                        <div class="col-md-6 col-sm-6">
-                            <div class="form-group">
-                                <label>Customer Name</label>
-                                <input type="text" class="form-control" id="name" name="name" placeholder="Enter Last Name">
-                            </div>
-                        </div>
-                    
+				<form method="post" action="back.php">
+					<div class="row">       
+						<div class="col-md-6 col-sm-6">
+							<div class="form-group">
+								<label>Customer Name</label>
+								<input type="text" class="form-control" id="name" name="name" placeholder="Enter Last Name">
+							</div>
+						</div>
+					
                     <div class="col-md-6 col-sm-6">
                             <div class="form-group">
                                 <label>Email</label>
@@ -54,16 +54,16 @@
                             </div>
                         </div>
                         </div>
-                    <!-- End row -->
-                    <div class="row">
-                        
-                        <div class="col-md-6 col-sm-6">
-                            <div class="form-group">
-                                <label>Phone</label>
-                                <input type="text" id="phone" name="phone" class="form-control" placeholder="Enter Phone number">
-                            </div>
-                        </div>
-                    
+					<!-- End row -->
+					<div class="row">
+						
+						<div class="col-md-6 col-sm-6">
+							<div class="form-group">
+								<label>Phone</label>
+								<input type="text" id="phone" name="phone" class="form-control" placeholder="Enter Phone number">
+							</div>
+						</div>
+					
                     <div class="col-md-6 col-sm-6">
                             <div class="form-group">
                                 <label>Enter Number of Room</label>
@@ -98,7 +98,9 @@
                                                         <select class="form-control" name="guest" id="guest">
 
                                                           <option selected="selected" disabled="disabled">Select Room Type</option>
-                                                         
+                                                          <option value="Suite Room">Suite Room</option>
+                                                          <option value="Executive Room">Executive Room</option>
+                                                          <option value="Standard Room">Standard Room</option>
                                                            <option value="Deluxe Room">Deluxe Room</option>
                                                             
                                                         </select>               
@@ -108,25 +110,25 @@
                                             </div>
 
                     <!-- End row -->
-                
+				
                     <!-- End row -->
-                    <div class="row add_bottom_30">
-                        <div class="col-md-6">
-                            <!--<div class="form-group">
+					<div class="row add_bottom_30">
+						<div class="col-md-6">
+                        	<!--<div class="form-group">
                                 <label>Human verification</label>
                                 <input type="text" id="verify_contact" class="form-control add_bottom_30" placeholder="Are you human? 3 + 1 =">
                             </div>-->
-                            <div class="text-center"><a href="book_room.php"><button  type="submit" style= "background: #18d26e;
+							<div class="text-center"><a href="bookroom.php"><button  type="submit" style= "background: #18d26e;
     border: 0;
     padding: 10px 30px;
     color: #fff;
     transition: 0.4s;
     cursor: pointer;" name="submitt" id="submitt">Book Now</button>
-                        </div>
-                    </div>
+						</div>
+					</div>
                     <!-- End button -->
-                </form>           
-            </div><!-- End col-md-8 -->    
+				</form>               
+            </div><!-- End col-md-7 -->    
             
              
         </div><!-- End row -->
@@ -135,11 +137,11 @@
   
 
      <?php include 'includes/footer.php';?>
-
 <div id="toTop"></div><!-- Back to top button -->
    
 <!-- COMMON SCRIPTS -->
 <?php include 'includes/script.php';?>
+
 <!-- Specifi scripts -->
 
 

@@ -33,6 +33,7 @@
                     <li><a href="about.php">About us</a></li>
                     <li><a href="room_list.php">Accomodation</a></li>
                     <li><a href="gallery.php">Gallery</a></li>
+                     <li><a href="bookroom.php">Book Room</a></li>
                     <!--<li class="submenu">
                     <a href="javascript:void(0);" class="show-submenu">Pages<i class="icon-down-open-mini"></i></a>
                     <ul>

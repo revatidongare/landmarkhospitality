@@ -13,12 +13,12 @@ if(isset($_POST['submit'])){
    
 // email code
   $to = $email;
-  $subject = "Hi " . $name. " " . ", welcome to Lotus....!";
+  $subject = "Hi " . $name. " " . ", welcome to Sudarshan....!";
   $body = '
 Dear ' . $name . ',
   Thank you for joining our site. Your request has been successfully submitted to our end our team will contact you shortly.
   Kind Regards,
-Lotus
+Sudarshan
   ';
   $headers = 'From: contact@journeyworlddmc.com';
 
@@ -33,7 +33,7 @@ Lotus
 
   //self mail
 $to_email1 = 'contact@journeyworlddmc.com';
-  $subject1 = ' Lotus site response  ';
+  $subject1 = ' Sudarshan site response  ';
   $message1 = 'User_name: '.$name."" .$lastname.
   "\n" . 'Email: '.$email.
   "\n".
@@ -66,17 +66,17 @@ $to_email1 = 'contact@journeyworlddmc.com';
    
 // email code
   $to = $email;
-  $subject = "Hi " . $name. " " . ", welcome to Lotus....!";
+  $subject = "Hi " . $name. " " . ", welcome to Sudarshan....!";
   $body = '
 Dear ' . $name . ',
   Thank you for joining our site. Your request has been successfully submitted to our end our team will contact you shortly.
   Kind Regards,
-Lotus
+Sudarshan
   ';
   $headers = 'From: contact@journeyworlddmc.com';
 
   if (mail($to, $subject, $body, $headers)) {
-    header('location:book_room.php?p=3');
+    header('location:bookroom.php?p=3');
   }
   else{
     echo("email failed to sent to user whose email is " . $email);
@@ -86,7 +86,7 @@ Lotus
 
   //self mail
 $to_email1 = 'contact@journeyworlddmc.com';
-  $subject1 = ' Lotus site response  ';
+  $subject1 = ' Sudarshan site response  ';
   $message1 = 'Customer Name: '.$name.
   "\n" . 'Email: '.$email.
   "\n".
@@ -109,6 +109,6 @@ $to_email1 = 'contact@journeyworlddmc.com';
     }
     else{
 
-      header("location:book_room.php?q=101");
+      header("location:bookroom.php?q=101");
     }
 ?>
