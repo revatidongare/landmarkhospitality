@@ -1,7 +1,37 @@
 <!DOCTYPE html>
 <!--[if IE 9]><html class="ie ie9"> <![endif]-->
 <html>
-<?php include 'includes/head.php';?>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="hotel, bed and breakfast, accommodations, travel, motel">
+    <meta name="description" content="FC Recom - Hotel and Bed&amp;Breakfast">
+    <meta name="author" content="Ansonika">
+    <title>Lotus Hotel</title>
+
+    <!-- Favicons-->
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" type="image/x-icon" href="../img/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="../img/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="../img/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="../img/apple-touch-icon-144x144-precomposed.png">
+
+    <!-- BASE CSS -->
+    <link href="../css/base.css" rel="stylesheet">
+    
+    <!-- SPECIFIC CSS -->
+    <link href="../layerslider/css/layerslider.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../css/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="../css/owl.theme.default.css">
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+      <script src="../js/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<!-- <?php //include 'includes/head.php';?> -->
 
 <body>
 
@@ -21,7 +51,7 @@
     <!-- End Header =============================================== -->
     
 	<!-- SubHeader =============================================== -->
-    <div class="parallax-window" id="booking" data-parallax="scroll" data-image-src="../lotus/img/mosaic_1.jpeg" data-natural-width="1400" data-natural-height="550">
+    <!-- <div class="parallax-window" id="booking" data-parallax="scroll" data-image-src="../lotus/img/mosaic_1.jpeg" data-natural-width="1400" data-natural-height="550"> -->
        <!--  <div id="subheader_home">
             <div id="sub_content">
                 <div id="book_container">
@@ -74,6 +104,31 @@
                 </div>
             </div>
         </div> -->
+    <!-- </div> -->
+    <div id="full-slider-wrapper">
+        <div id="layerslider" style="width:100%;height:600px;">
+            <!-- first slide -->
+            <div class="ls-slide" data-ls="slidedelay: 3000; transition2d:5;">
+                <img src="img/banner_1.jpeg" class="ls-bg" alt="Slide background">
+                <!-- <h3 class="ls-l slide_typo" style="top: 45%; left: 50%;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;rotatexout:90;transformoriginout:50% bottom 0;" ><strong>Enjoy</strong> in a beatifull contest</h3> -->
+               <!-- <a href="#0" class="btn_slider ls-l" style="top:62%; left:50%;" data-ls="durationin:2000;delayin:1300;easingin:easeOutElastic;" >Read more</a> -->
+           </div>
+           
+            <!-- second slide -->
+        <div class="ls-slide" data-ls="slidedelay: 3000; transition2d:5;">
+                <img  src="img/123.jpg" class="ls-bg" alt="Slide background">
+                <!-- <h3 class="ls-l slide_typo" style="top: 45%; left: 50%;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;rotatexout:90;transformoriginout:50% bottom 0;" >It's time for you to <strong>Relax</strong></h3> -->
+               <!-- <a href="#0" class="btn_slider ls-l" style="top:62%; left:50%;" data-ls="durationin:2000;delayin:1300;easingin:easeOutElastic;" >Read more</a> -->
+        </div>
+        
+         <!-- third slide -->
+         <!-- <div class="ls-slide" data-ls="slidedelay:3000; transition2d:5;" >
+                 <img src="img/slides/slide_3.jpg" class="ls-bg" alt="Slide background">
+                <h3 class="ls-l slide_typo" style="top: 45%; left: 50%;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;rotatexout:90;transformoriginout:50% bottom 0;" ><strong>Large</strong> comfortable Bedrooms</h3>
+                <a href="#0" class="btn_slider ls-l" style="top:62%; left:50%;" data-ls="durationin:2000;delayin:1300;easingin:easeOutElastic;" >Read more</a>
+        </div> -->
+     
+        </div>
     </div>
     <!-- End SubHeader ============================================ -->
             
@@ -360,6 +415,30 @@
 <div id="toTop"></div><!-- Back to top button -->
         
 <!-- COMMON SCRIPTS -->
-<?php include 'includes/script.php';?>
+<!-- <?php //include 'includes/script.php';?> -->
+
+<script src="../js/jquery-1.11.2.min.js"></script>
+<script src="../js/common_scripts_min.js"></script>
+<script src="../assets/validate.js"></script>
+<script src="../js/functions.js"></script>
+
+<!-- SPECIFIC SCRIPTS -->
+<script src="../layerslider/js/greensock.js"></script>
+<script src="../layerslider/js/layerslider.transitions.js"></script>
+<script src="../layerslider/js/layerslider.kreaturamedia.jquery.js"></script>
+<script type="text/javascript">
+        $('#layerslider').layerSlider({
+            autoStart: true,
+            responsive: true,
+            responsiveUnder: 1280,
+            layersContainer: 1170,
+            navButtons:false,
+            showCircleTimer:true,
+            navStartStop:false,
+            skinsPath: 'layerslider/skins/'
+            // Please make sure that you didn't forget to add a comma to the line endings
+            // except the last line!
+        });
+</script>
 </body>
 </html>
