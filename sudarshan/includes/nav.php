@@ -1,12 +1,12 @@
 <header>
     <div class="container">
         <div class="row">
-            <div class="col--md-3 col-sm-3 col-xs-3">
+            <div class="col-md-3 col-sm-3 col-xs-3">
                 <a href="index.php" id="logo">
-                <img src="../sudarshan/img/logo.jpeg" width="200" height="100" alt="" data-retina="true">
+                <img src="../sudarshan/img/logo.jpeg" width= "70%" height="50%" alt="" data-retina="true">
                 </a>
             </div>
-            <nav class="col--md-9 col-sm-9 col-xs-9">
+            <nav class="col-md-9 col-sm-9 col-xs-9">
             <a class="cmn-toggle-switch cmn-toggle-switch__htx open_close" href="javascript:void(0);"><span>Menu mobile</span></a>
             <!-- <ul id="lang_top">
                 <li><a href="#" class="active">EN</a></li>

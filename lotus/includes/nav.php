@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col--md-3 col-sm-3 col-xs-3">
                 <a href="index.php" id="logo">
-                <img src="../lotus/img/logo.jpeg" width="300" height="200" alt="" data-retina="true">
+                <img src="../lotus/img/logo.jpeg" width= "50%" height="20%" alt="" data-retina="true">
                 </a>
             </div>
             <nav class="col--md-9 col-sm-9 col-xs-9">
@@ -15,7 +15,7 @@
             </ul> -->
             <div class="main-menu">
                 <div id="header_menu">
-                     <img src="../img/logo_m.png" width="141" height="40" alt="" data-retina="true">
+                     <img src="../img/logo_m.png"  alt="" data-retina="true">
                 </div>
                 <a href="#" class="open_close" id="close_in"><i class="icon_set_1_icon-77"></i></a>
                  <ul>
