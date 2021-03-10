@@ -55,9 +55,11 @@
 			</form> -->
 			 <b>Airport: </b>6 KMS<br>
 
-             <b>Railway Station: </b>3 KMS<br>
+             <b>Pune Railway Station: </b>3 KMS<br>
 
-             <b>City Centre: </b>3 KMS
+             <b>City Centre: </b>3 KMS<br>
+             <b>Kharadi EON IT Park/WTC: </b>8.9KMS<br>
+             <b>Magarpatta(Hadapsar): </b>5.6KMS
             </div>
             </div>
             </div>   

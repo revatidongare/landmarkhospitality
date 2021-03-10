@@ -51,10 +51,10 @@
 						</li>
 						<li>
 							<figure>
-								<img src="../lotus/img/gallery/pic_2.JPG" alt="">
+								<img src="../lotus/img/gallery/pic2.JPG" alt="">
 								<figcaption>
 								<div class="caption-content">
-                                    	<a href="../lotus/img/gallery/pic_2.JPG" title="Photo title" data-effect="mfp-move-horizontal">
+                                    	<a href="../lotus/img/gallery/pic2.JPG" title="Photo title" data-effect="mfp-move-horizontal">
                                         <i class="icon_set_1_icon-32"></i>
 										<p>Your caption</p>
 									   </a>

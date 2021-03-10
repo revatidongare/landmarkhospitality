@@ -116,7 +116,7 @@
         <div class="container margin_60">
             <div class="row">
                 <div class="col-md-5 col-md-offset-1">
-                    <figure class="room_pic"><a href="../lotus/img/room_home_1.JPG"><img src="../lotus/img/room_home_1.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
+                    <figure class="room_pic"><a href="../lotus/img/room_home.JPG" class="carousel slide"><img src="../lotus/img/room_home.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
                 </div>
                 <div class="col-md-4 col-md-offset-1">
                     <div class="room_desc_home">
@@ -161,7 +161,7 @@
     <div class="container margin_60">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 col-md-push-5">
-                  <figure class="room_pic left"><a href="../lotus/img/room_home_3.JPG"><img src="../lotus/img/room_home_3.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 2400/-</sup><small>Per night</small></span></figure>
+                  <figure class="room_pic left"><a href="../lotus/img/room_home3.JPG"><img src="../lotus/img/room_home3.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 2400/-</sup><small>Per night</small></span></figure>
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">
@@ -254,7 +254,9 @@
     <div class="container margin_60">
         <div class="row">
             <div class="col-md-5 col-md-offset-1 col-md-push-5">
-                  <figure class="room_pic left"><a href="../lotus/img/room_home_4.JPG"><img src="../lotus/img/room_home_4.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
+                
+                  <figure class="room_pic left"><a href="../lotus/img/room_home4.JPG">
+                    <img src="../lotus/img/room_home4.JPG" alt="" class="img-responsive"></a><span class="wow zoomIn" data-wow-delay="0.2s"><sup>Rs. 1900/-</sup><small>Per night</small></span></figure>
             </div>
             <div class="col-md-4 col-md-offset-1 col-md-pull-6">
                 <div class="room_desc_home">

@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-12">
-                    <img src="../img/logo_footer.png" width="141" height="40" alt="" id="logo_footer" data-retina="true">
+                    <h3>HOTEL SUDARSHAN</h3>
 					<ul id="contact_details_footer">
           				<li>Plot No.18, Lane No.7, HDFC Bank Lane,<br>Kalyani Nagar, Pune 411006. INDIA
                         </li>

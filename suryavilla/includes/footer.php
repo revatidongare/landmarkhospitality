@@ -2,7 +2,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-12">
-                    <img src="../img/logo_footer.png" width="141" height="40" alt="" id="logo_footer" data-retina="true">
+                    <h3>HOTEL SURYAVILLA</h3>
 					<ul id="contact_details_footer">
           				<li>294/1, Lane-A, Down German Bakery Lane
                         <br>Koregaon Park, Pune -411001. Maharashtra (INDIA)</li>
